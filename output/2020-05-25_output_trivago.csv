@@ -1,0 +1,794 @@
+merchant;scraping_date;city_name;hotel_name;star;Starting_period;Ending_period;Camera;Price 1;Price 2;Price 3;Price 4;Price 5;currency
+trivago;2020-05-25;SIRMIONE;Antico Rovere Sirmione Cir 017179-cni-00102;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;SIRMIONE;Residence Punta Gro;;13/07/2020;19/07/2020;camere familiari;63;63;56;;;eur
+trivago;2020-05-25;SIRMIONE;Hotel Gardenia;3;13/07/2020;19/07/2020;camere familiari;82;82;115;99;93;eur
+trivago;2020-05-25;SIRMIONE;Appartamenti Altea;;13/07/2020;19/07/2020;camere familiari;88;88;88;;;eur
+trivago;2020-05-25;SIRMIONE;Il Grappolo Bilocale;;13/07/2020;19/07/2020;camere familiari;92;92;;;;eur
+trivago;2020-05-25;SIRMIONE;Camping Villaggio Tiglio;;13/07/2020;19/07/2020;camere familiari;60;92;64;;;eur
+trivago;2020-05-25;SIRMIONE;Al Faro-luxury Holiday Home;;13/07/2020;19/07/2020;camere familiari;96;96;96;;;eur
+trivago;2020-05-25;SIRMIONE;Al Faro-luxury Holiday Home;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;SIRMIONE;Residence Magnolie;;13/07/2020;19/07/2020;camere familiari;103;103;103;;;eur
+trivago;2020-05-25;SIRMIONE;Suite Mavino Appartamenti;;13/07/2020;19/07/2020;camere familiari;104;104;;;;eur
+trivago;2020-05-25;SIRMIONE;Adriana Sirmione;;13/07/2020;19/07/2020;camere familiari;104;104;;;;eur
+trivago;2020-05-25;SIRMIONE;Camere America B&b;;13/07/2020;19/07/2020;camere familiari;109;109;109;109;109;eur
+trivago;2020-05-25;SIRMIONE;America;;13/07/2020;19/07/2020;camere familiari;110;110;110;110;110;eur
+trivago;2020-05-25;SIRMIONE;Poggio Al Lago;;13/07/2020;19/07/2020;camere familiari;111;111;;;;eur
+trivago;2020-05-25;SIRMIONE;Appartamento Indipendente In Villa Con P.auto .;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;SIRMIONE;Case Da Anna - Cascinale - Lago Di Garda;;13/07/2020;19/07/2020;camere familiari;114;114;114;;;eur
+trivago;2020-05-25;SIRMIONE;Le Palme Appartamento 3;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;SIRMIONE;Appartamento Cipria;;13/07/2020;19/07/2020;camere familiari;117;117;136;;;eur
+trivago;2020-05-25;SIRMIONE;Fiordaliso;2;13/07/2020;19/07/2020;camere familiari;116;118;134;134;116;eur
+trivago;2020-05-25;SIRMIONE;Olimpia;2;13/07/2020;19/07/2020;camere familiari;119;119;119;139;132;eur
+trivago;2020-05-25;SIRMIONE;Il Canaletto;;13/07/2020;19/07/2020;camere familiari;120;120;;;;eur
+trivago;2020-05-25;SIRMIONE;Sirmione Acque Del Garda Apartments;;13/07/2020;19/07/2020;camere familiari;120;120;120;;;eur
+trivago;2020-05-25;SIRMIONE;Sarno Appartamento;;13/07/2020;19/07/2020;camere familiari;121;121;121;;;eur
+trivago;2020-05-25;SIRMIONE;Anna Apartment;;13/07/2020;19/07/2020;camere familiari;122;122;122;;;eur
+trivago;2020-05-25;SIRMIONE;Hotel Marolda;3;13/07/2020;19/07/2020;camere familiari;124;124;124;;;eur
+trivago;2020-05-25;STRESA;Hotel Villa & Palazzo Aminta;5;13/07/2020;19/07/2020;camere familiari;749;802;749;749;749;eur
+trivago;2020-05-25;STRESA;Villa Perondi In Stresa Whg. Nr. 5;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;STRESA;Casa Della Torre;;13/07/2020;19/07/2020;camere familiari;78;78;107;;;eur
+trivago;2020-05-25;STRESA;Casa Indipendente Vista Lago;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;STRESA;Langelo;;13/07/2020;19/07/2020;camere familiari;95;95;95;;;eur
+trivago;2020-05-25;STRESA;Bilocale Dante;;13/07/2020;19/07/2020;camere familiari;97;97;97;;;eur
+trivago;2020-05-25;STRESA;Casa Elisa;;13/07/2020;19/07/2020;camere familiari;98;98;98;;;eur
+trivago;2020-05-25;STRESA;Le Camere Della Vecchia Osteria;;13/07/2020;19/07/2020;camere familiari;99;99;99;;;eur
+trivago;2020-05-25;STRESA;Al 13 Rosso;;13/07/2020;19/07/2020;camere familiari;100;100;;;;eur
+trivago;2020-05-25;STRESA;Dama Del Lago;;13/07/2020;19/07/2020;camere familiari;102;102;;;;eur
+trivago;2020-05-25;STRESA;Casa Gènia;;13/07/2020;19/07/2020;camere familiari;102;102;;;;eur
+trivago;2020-05-25;STRESA;Da Cesare;2;13/07/2020;19/07/2020;camere familiari;93;106;108;108;93;eur
+trivago;2020-05-25;STRESA;Appartamento Cigno;;13/07/2020;19/07/2020;camere familiari;106;106;;;;eur
+trivago;2020-05-25;STRESA;Casa Clara;;13/07/2020;19/07/2020;camere familiari;107;107;;;;eur
+trivago;2020-05-25;STRESA;Casa Yin E Yan In Stresa;;13/07/2020;19/07/2020;camere familiari;111;111;111;;;eur
+trivago;2020-05-25;STRESA;La Pergola;;13/07/2020;19/07/2020;camere familiari;111;111;;;;eur
+trivago;2020-05-25;STRESA;Fruitn Joy;;13/07/2020;19/07/2020;camere familiari;112;112;124;;;eur
+trivago;2020-05-25;STRESA;Sirena;;13/07/2020;19/07/2020;camere familiari;114;114;114;;;eur
+trivago;2020-05-25;STRESA;Don Ezio;;13/07/2020;19/07/2020;camere familiari;114;114;114;;;eur
+trivago;2020-05-25;STRESA;Villa Lucciola;;13/07/2020;19/07/2020;camere familiari;116;116;119;119;116;eur
+trivago;2020-05-25;STRESA;Rio Molino;;13/07/2020;19/07/2020;camere familiari;118;118;129;;;eur
+trivago;2020-05-25;STRESA;Lago Blu;;13/07/2020;19/07/2020;camere familiari;118;118;;;;eur
+trivago;2020-05-25;STRESA;Stresa Apartment;;13/07/2020;19/07/2020;camere familiari;120;120;120;;;eur
+trivago;2020-05-25;STRESA;Chiara Loft;;13/07/2020;19/07/2020;camere familiari;116;120;116;;;eur
+trivago;2020-05-25;STRESA;Luxury And Fashionable Apartment;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;AMALFI;Castriota-scanderberg Apartment;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;AMALFI;La Casina Del Piennolo;;13/07/2020;19/07/2020;camere familiari;107;107;;;;eur
+trivago;2020-05-25;AMALFI;Sul Poggio Antico;;13/07/2020;19/07/2020;camere familiari;121;121;121;;;eur
+trivago;2020-05-25;AMALFI;Hotel Amalfi;3;13/07/2020;19/07/2020;camere familiari;130;130;130;236;218;eur
+trivago;2020-05-25;AMALFI;Caleidoscopio Amalfi;;13/07/2020;19/07/2020;camere familiari;142;142;;;;eur
+trivago;2020-05-25;AMALFI;Villa Nina;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;AMALFI;Grazioso Appartamento Vista Mare;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;AMALFI;Amalfi Hills Country Hotel;;13/07/2020;19/07/2020;camere familiari;152;152;152;151;;eur
+trivago;2020-05-25;AMALFI;Casa Martina;;13/07/2020;19/07/2020;camere familiari;153;153;153;;;eur
+trivago;2020-05-25;AMALFI;Il Paridà;;13/07/2020;19/07/2020;camere familiari;156;156;156;156;156;eur
+trivago;2020-05-25;AMALFI;Lemon Garden;;13/07/2020;19/07/2020;camere familiari;160;160;160;;;eur
+trivago;2020-05-25;AMALFI;Casa Sul Porto;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;AMALFI;Amalfi Centro La Casa Del Saraceno;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;AMALFI;Appartamento Manuela;;13/07/2020;19/07/2020;camere familiari;164;164;;;;eur
+trivago;2020-05-25;AMALFI;Villa Rina;;13/07/2020;19/07/2020;camere familiari;166;166;176;176;166;eur
+trivago;2020-05-25;AMALFI;The Amalfi Hill Top House - For Families & Groups;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;AMALFI;La Finestra Sul Mare;;13/07/2020;19/07/2020;camere familiari;171;171;;;;eur
+trivago;2020-05-25;AMALFI;Il Cuore Di Amalfi;;13/07/2020;19/07/2020;camere familiari;173;173;173;;;eur
+trivago;2020-05-25;AMALFI;Casa Franziska;;13/07/2020;19/07/2020;camere familiari;177;177;177;;;eur
+trivago;2020-05-25;AMALFI;Villa Paolillo - For Mountain Walks And Sea Views;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;AMALFI;La Pergola;3;13/07/2020;19/07/2020;camere familiari;180;180;193;199;180;eur
+trivago;2020-05-25;AMALFI;Apartments Amalfi City Centre;;13/07/2020;19/07/2020;camere familiari;181;181;195;;;eur
+trivago;2020-05-25;AMALFI;Villa Matilde Amalfi;;13/07/2020;19/07/2020;camere familiari;183;183;;;;eur
+trivago;2020-05-25;AMALFI;Casa Panoramica;;13/07/2020;19/07/2020;camere familiari;183;183;201;;;eur
+trivago;2020-05-25;AMALFI;Amalfi Coast Domus Tovere offerta speciale 2018!;;13/07/2020;19/07/2020;camere familiari;184;184;184;;;eur
+trivago;2020-05-25;JESOLO;Taormina;;13/07/2020;19/07/2020;camere familiari;98;98;102;102;98;eur
+trivago;2020-05-25;JESOLO;Bed And Breakfast Ca Dolce Jesolo;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;JESOLO;Camera Quadrupla In Concorso Agricolo;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;JESOLO;Antiche Mura;;13/07/2020;19/07/2020;camere familiari;150;150;150;150;150;eur
+trivago;2020-05-25;JESOLO;Petite Maison;;13/07/2020;19/07/2020;camere familiari;153;153;153;;;eur
+trivago;2020-05-25;JESOLO;Villa Cristina N.1;;13/07/2020;19/07/2020;camere familiari;153;153;178;;;eur
+trivago;2020-05-25;JESOLO;Numero Uno;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;JESOLO;Villa Cristina N. 12;;13/07/2020;19/07/2020;camere familiari;163;168;168;;;eur
+trivago;2020-05-25;JESOLO;Jesolo Venice 2 Bedrooms Apartment;;13/07/2020;19/07/2020;camere familiari;168;168;168;;;eur
+trivago;2020-05-25;JESOLO;Margherita;;13/07/2020;19/07/2020;camere familiari;182;182;182;;;eur
+trivago;2020-05-25;JESOLO;Hotel Trevi;3;13/07/2020;19/07/2020;camere familiari;193;193;193;193;193;eur
+trivago;2020-05-25;JESOLO;Villa Dei Dogi 2;;13/07/2020;19/07/2020;camere familiari;193;193;;;;eur
+trivago;2020-05-25;JESOLO;Villa Magnolia;;13/07/2020;19/07/2020;camere familiari;200;200;200;;;eur
+trivago;2020-05-25;JESOLO;Apartment Villa Cristina N. 5;;13/07/2020;19/07/2020;camere familiari;212;212;212;;;eur
+trivago;2020-05-25;JESOLO;Appartamento Piazza Mazzini;;13/07/2020;19/07/2020;camere familiari;255;255;255;;;eur
+trivago;2020-05-25;JESOLO;Residence & Villa Sorriso;;13/07/2020;19/07/2020;camere familiari;327;327;327;327;327;eur
+trivago;2020-05-25;JESOLO;Park Maracaibo;4;13/07/2020;19/07/2020;camere familiari;401;425;401;401;401;eur
+trivago;2020-05-25;JESOLO;Hotel Residence Progresso;;13/07/2020;19/07/2020;camere familiari;182;886;202;;;eur
+trivago;2020-05-25;RIMINI;i-Suite Design Hotel;5;13/07/2020;19/07/2020;camere familiari;549;549;549;1.070;1.070;eur
+trivago;2020-05-25;RIMINI;Grand Hotel Rimini;5;13/07/2020;19/07/2020;camere familiari;552;552;576;582;552;eur
+trivago;2020-05-25;RIMINI;Villa Dina;3;13/07/2020;19/07/2020;camere familiari;63;63;63;;;eur
+trivago;2020-05-25;RIMINI;Vannucci;3;13/07/2020;19/07/2020;camere familiari;69;69;69;69;69;eur
+trivago;2020-05-25;RIMINI;Hotel Colombo;3;13/07/2020;19/07/2020;camere familiari;72;72;80;80;80;eur
+trivago;2020-05-25;RIMINI;Trinidad;3;13/07/2020;19/07/2020;camere familiari;73;73;112;112;73;eur
+trivago;2020-05-25;RIMINI;Losanna;3;13/07/2020;19/07/2020;camere familiari;74;74;74;114;114;eur
+trivago;2020-05-25;RIMINI;Ca' Vanni;3;13/07/2020;19/07/2020;camere familiari;75;75;75;277;277;eur
+trivago;2020-05-25;RIMINI;Hotel Sanremo;3;13/07/2020;19/07/2020;camere familiari;76;76;76;82;82;eur
+trivago;2020-05-25;RIMINI;La Gioiosa;3;13/07/2020;19/07/2020;camere familiari;73;77;77;87;87;eur
+trivago;2020-05-25;RIMINI;Laika;2;13/07/2020;19/07/2020;camere familiari;73;77;73;79;79;eur
+trivago;2020-05-25;RIMINI;Magriv;3;13/07/2020;19/07/2020;camere familiari;77;77;77;188;178;eur
+trivago;2020-05-25;RIMINI;Berna B&B Youth People;;13/07/2020;19/07/2020;camere familiari;79;79;79;;;eur
+trivago;2020-05-25;RIMINI;Nives;3;13/07/2020;19/07/2020;camere familiari;72;84;72;152;152;eur
+trivago;2020-05-25;RIMINI;Panama Majestic;4;13/07/2020;19/07/2020;camere familiari;85;85;139;139;85;eur
+trivago;2020-05-25;RIMINI;Hotel Laguna Blu;3;13/07/2020;19/07/2020;camere familiari;83;85;83;83;83;eur
+trivago;2020-05-25;RIMINI;Hotel Stella d'Italia;3;13/07/2020;19/07/2020;camere familiari;75;85;85;110;101;eur
+trivago;2020-05-25;RIMINI;Villa Lauda;1;13/07/2020;19/07/2020;camere familiari;85;85;104;104;101;eur
+trivago;2020-05-25;RIMINI;Marilonda;3;13/07/2020;19/07/2020;camere familiari;87;87;96;126;126;eur
+trivago;2020-05-25;RIMINI;Spiaggia Marconi;3;13/07/2020;19/07/2020;camere familiari;87;88;88;94;87;eur
+trivago;2020-05-25;RIMINI;Residence Algarve;2;13/07/2020;19/07/2020;camere familiari;88;88;96;;;eur
+trivago;2020-05-25;RIMINI;Hotel Arcangelo;3;13/07/2020;19/07/2020;camere familiari;83;89;83;108;97;eur
+trivago;2020-05-25;RIMINI;Hotel Lily;3;13/07/2020;19/07/2020;camere familiari;89;89;95;95;89;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Eight Hotel Paraggi;5;13/07/2020;19/07/2020;camere familiari;2.210;2.210;2.210;2.210;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;58 Via Somalia;;13/07/2020;19/07/2020;camere familiari;85;85;85;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Relax Nel Tigullio;;13/07/2020;19/07/2020;camere familiari;104;104;108;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Casa Del Cuore;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;A Due Passi Dal Mare;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Le 2 Cocche Agridomus Citra010054-lt-0123;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;La Violara Three Room Apartment;;13/07/2020;19/07/2020;camere familiari;122;122;141;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Appartamento Per Vacanze San Siro;;13/07/2020;19/07/2020;camere familiari;123;123;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Nicolina;;13/07/2020;19/07/2020;camere familiari;144;144;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Andromeda Primo Piano.panorama, Parcheggio E Wifi;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Centralissimo,con Aria Condizionata;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Le Camarelle Codice Citra 010054-lt-0431;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Noah Andrea Cod.citra 010046-lt-0131;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Le Camarelle;;13/07/2020;19/07/2020;camere familiari;164;164;164;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Casa S. Margherita Monte Portofino;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Romeo;;13/07/2020;19/07/2020;camere familiari;171;171;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Casetta A Grigoa Un Tuffo Nel Verde - B&b.;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Seaview, Pool And Relax;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Appartamento S. Margherita L.;;13/07/2020;19/07/2020;camere familiari;200;200;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Sunflower Apartment;;13/07/2020;19/07/2020;camere familiari;200;200;218;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Mattias House. Relax In A Historical Building;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Mattias House;;13/07/2020;19/07/2020;camere familiari;215;215;215;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Luna Sui Tetti;;13/07/2020;19/07/2020;camere familiari;216;216;216;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;La Mansarda Di San Lorenzo;;13/07/2020;19/07/2020;camere familiari;221;221;221;221;221;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Residenza Orso Cod Citra 010054-lt-0053;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;TAORMINA;Hotel NH Collection Taormina;5;13/07/2020;19/07/2020;camere familiari;496;496;590;646;574;eur
+trivago;2020-05-25;TAORMINA;Grand Hotel San Pietro;5;13/07/2020;19/07/2020;camere familiari;676;829;676;676;676;eur
+trivago;2020-05-25;TAORMINA;Hotel El Jebel;5;13/07/2020;19/07/2020;camere familiari;847;847;972;972;847;eur
+trivago;2020-05-25;TAORMINA;VOI Grand Hotel Mazzaró Sea Palace;5;13/07/2020;19/07/2020;camere familiari;1.430;1.430;1.430;1.430;1.430;eur
+trivago;2020-05-25;TAORMINA;The Ashbee Hotel;5;13/07/2020;19/07/2020;camere familiari;1.560;1.560;1.560;1.560;1.560;eur
+trivago;2020-05-25;TAORMINA;Hotel Metropole Taormina;5;13/07/2020;19/07/2020;camere familiari;1.785;1.785;1.785;1.785;1.785;eur
+trivago;2020-05-25;TAORMINA;Appartamento Taormina Trappitello;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;TAORMINA;Taormina Casa Sarina;;13/07/2020;19/07/2020;camere familiari;72;72;92;;;eur
+trivago;2020-05-25;TAORMINA;Casa Sul Mare;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;TAORMINA;Villa Carmelas;;13/07/2020;19/07/2020;camere familiari;84;84;113;;;eur
+trivago;2020-05-25;TAORMINA;Taormina Stochkolm;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;TAORMINA;Acqua Verde Cristallina;;13/07/2020;19/07/2020;camere familiari;81;84;;;;eur
+trivago;2020-05-25;TAORMINA;Sicily In Love - Rooms&breakfast;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;TAORMINA;Sicily In Love;;13/07/2020;19/07/2020;camere familiari;90;90;97;97;97;eur
+trivago;2020-05-25;TAORMINA;Taormina Residence Gardenia Moderno Appt X4 New!;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;TAORMINA;Al Chiaro Di Luna;;13/07/2020;19/07/2020;camere familiari;94;94;94;94;94;eur
+trivago;2020-05-25;TAORMINA;Casa Nino Lo Monaco A Taormina;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;TAORMINA;Hotel Inn Taormina;3;13/07/2020;19/07/2020;camere familiari;97;97;102;107;97;eur
+trivago;2020-05-25;TAORMINA;Ikebana;;13/07/2020;19/07/2020;camere familiari;98;98;;;;eur
+trivago;2020-05-25;TAORMINA;Casa Taormina;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;TAORMINA;Taormina Castle View;;13/07/2020;19/07/2020;camere familiari;101;101;;;;eur
+trivago;2020-05-25;TAORMINA;Casa Aurora;;13/07/2020;19/07/2020;camere familiari;105;105;105;162;;eur
+trivago;2020-05-25;TAORMINA;Taormina Family Apartment;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;TAORMINA;Casamalva;;13/07/2020;19/07/2020;camere familiari;109;109;109;;;eur
+trivago;2020-05-25;TAORMINA;Fico Dindia Holiday Apartments;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ABETONE;Gli Abeti;;13/07/2020;19/07/2020;camere familiari;51;51;51;;;eur
+trivago;2020-05-25;ABETONE;Appartamento Val Di Luce Abetone;;13/07/2020;19/07/2020;camere familiari;70;70;;;;eur
+trivago;2020-05-25;ABETONE;Residence Cristallo;;13/07/2020;19/07/2020;camere familiari;73;73;73;;;eur
+trivago;2020-05-25;ABETONE;Val Di Luce Fra Natura, Sport E Relax;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ABETONE;La Casetta Allabetone Loft Mansarda;;13/07/2020;19/07/2020;camere familiari;78;78;86;;;eur
+trivago;2020-05-25;ABETONE;Grazioso Monolocale Per Vacanza Estiva E Invernale;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ABETONE;Appartamento In Residence Esclusivo;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ABETONE;Val Di Luce - Foemina 78;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ABETONE;Appartamento Valentina;;13/07/2020;19/07/2020;camere familiari;96;96;96;;;eur
+trivago;2020-05-25;ABETONE;Appartamento Val Di Luce, Abetone;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ABETONE;Casa Con Vista Boscolungo;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ABETONE;Casa Con Vista Allabetone;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ABETONE;Appartamento Ciliegio Le Regine;;13/07/2020;19/07/2020;camere familiari;105;105;105;;;eur
+trivago;2020-05-25;ABETONE;Villa Micheletti;;13/07/2020;19/07/2020;camere familiari;111;111;111;;;eur
+trivago;2020-05-25;ABETONE;Appartamento Per 5 Persone Val Di Luce (residence Foemina);;13/07/2020;19/07/2020;camere familiari;114;114;120;;;eur
+trivago;2020-05-25;ABETONE;Val Di Luce - Interno 19;;13/07/2020;19/07/2020;camere familiari;117;117;117;;;eur
+trivago;2020-05-25;ABETONE;Bucaneve;;13/07/2020;19/07/2020;camere familiari;127;127;127;;;eur
+trivago;2020-05-25;ABETONE;Appartamento Serena;;13/07/2020;19/07/2020;camere familiari;127;127;127;;;eur
+trivago;2020-05-25;ABETONE;Appartamento Serena Abetone;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ABETONE;Discovering Apartment Abetone;;13/07/2020;19/07/2020;camere familiari;130;135;130;;;eur
+trivago;2020-05-25;ABETONE;Locanda Farinati;;13/07/2020;19/07/2020;camere familiari;133;150;150;150;133;eur
+trivago;2020-05-25;ABETONE;Val Di Luce - Abetone Appartamento Da Favola;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ABETONE;Val Di Luce Foemina Rb;;13/07/2020;19/07/2020;camere familiari;155;155;155;;;eur
+trivago;2020-05-25;ABETONE;Hotel Abetone e Piramidi;4;13/07/2020;19/07/2020;camere familiari;157;157;157;;;eur
+trivago;2020-05-25;BARDONECCHIA;Bilocale Sulle Piste Da Sci;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;BARDONECCHIA;Les Lacs;3;13/07/2020;19/07/2020;camere familiari;90;90;120;;;eur
+trivago;2020-05-25;BARDONECCHIA;Baite 10-11;;13/07/2020;19/07/2020;camere familiari;94;94;;;;eur
+trivago;2020-05-25;BARDONECCHIA;Scoiattolo;;13/07/2020;19/07/2020;camere familiari;110;110;;;;eur
+trivago;2020-05-25;BARDONECCHIA;Cianfuran;3;13/07/2020;19/07/2020;camere familiari;114;114;114;;;eur
+trivago;2020-05-25;BARDONECCHIA;Hotel Jafferau;4;13/07/2020;19/07/2020;camere familiari;122;122;135;;;eur
+trivago;2020-05-25;BARDONECCHIA;Bianca;1;13/07/2020;19/07/2020;camere familiari;124;124;124;124;124;eur
+trivago;2020-05-25;BARDONECCHIA;Appartamento Vicino Campo Smith Bardonecchia;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;BARDONECCHIA;Luxury Apartment With View;;13/07/2020;19/07/2020;camere familiari;141;141;141;;;eur
+trivago;2020-05-25;BARDONECCHIA;Europa;2;13/07/2020;19/07/2020;camere familiari;142;142;149;149;142;eur
+trivago;2020-05-25;BARDONECCHIA;Chalet Della Guida;;13/07/2020;19/07/2020;camere familiari;162;162;174;174;162;eur
+trivago;2020-05-25;BARDONECCHIA;Casa Paola;;13/07/2020;19/07/2020;camere familiari;173;173;173;;;eur
+trivago;2020-05-25;BARDONECCHIA;Incantevole Alloggio, Posizione Ideale!;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;BARDONECCHIA;Bardonecchia Vicinissimo Alle Piste;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;BARDONECCHIA;Cà Fiore;4;13/07/2020;19/07/2020;camere familiari;186;186;186;186;186;eur
+trivago;2020-05-25;BARDONECCHIA;Bardonecchia Sci E Relax;;13/07/2020;19/07/2020;camere familiari;229;229;229;;;eur
+trivago;2020-05-25;BARDONECCHIA;Bardonecchia Appartamento Xl;;13/07/2020;19/07/2020;camere familiari;246;246;;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Miramonti Majestic Grand;5;13/07/2020;19/07/2020;camere familiari;579;582;695;695;582;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Grand Hotel Savoia;5;13/07/2020;19/07/2020;camere familiari;808;808;808;808;801;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Rosapetra;5;13/07/2020;19/07/2020;camere familiari;1.228;1.668;1.668;1.668;1.228;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Villa Sogno;;13/07/2020;19/07/2020;camere familiari;96;96;106;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Hotel Alaska;4;13/07/2020;19/07/2020;camere familiari;157;157;203;203;157;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Meublè Oasi;2;13/07/2020;19/07/2020;camere familiari;168;169;188;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Apartment In The Centre With Free Wifi And Terrace Overlooking Dolomites;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Columbia;3;13/07/2020;19/07/2020;camere familiari;194;194;194;194;194;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Lungoboite 14 - Cortina;;13/07/2020;19/07/2020;camere familiari;196;196;;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Sport Hotel Cortina;3;13/07/2020;19/07/2020;camere familiari;204;204;204;354;295;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Bellaria;3;13/07/2020;19/07/2020;camere familiari;205;205;291;291;205;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Villa Lacedel;;13/07/2020;19/07/2020;camere familiari;227;227;263;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Hotel Serena Cortina;3;13/07/2020;19/07/2020;camere familiari;226;228;226;283;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Villa Pocol;;13/07/2020;19/07/2020;camere familiari;228;228;268;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Chalet Pocol;;13/07/2020;19/07/2020;camere familiari;228;228;268;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Chalet Lacedel;;13/07/2020;19/07/2020;camere familiari;228;228;268;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Bucaneve;;13/07/2020;19/07/2020;camere familiari;228;228;268;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Villa Riadezeto;;13/07/2020;19/07/2020;camere familiari;228;228;268;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Villa Ca Perosego;;13/07/2020;19/07/2020;camere familiari;228;228;268;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Villa Ca' Bonel;;13/07/2020;19/07/2020;camere familiari;227;228;263;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Villa Donea;;13/07/2020;19/07/2020;camere familiari;228;228;268;;;eur
+trivago;2020-05-25;CORVARA IN BADIA;Hotel Sassongher;5;13/07/2020;19/07/2020;camere familiari;498;498;498;744;706;eur
+trivago;2020-05-25;CORVARA IN BADIA;Belavista;;13/07/2020;19/07/2020;camere familiari;134;134;;;;eur
+trivago;2020-05-25;CORVARA IN BADIA;Vila Altonn;;13/07/2020;19/07/2020;camere familiari;144;144;144;;;eur
+trivago;2020-05-25;CORVARA IN BADIA;Appartamento Alberto;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;CORVARA IN BADIA;Residence Salvan;3;13/07/2020;19/07/2020;camere familiari;146;163;168;;;eur
+trivago;2020-05-25;CORVARA IN BADIA;Residence Alice Nel Paese Dell Armentarola;;13/07/2020;19/07/2020;camere familiari;165;165;182;;;eur
+trivago;2020-05-25;CORVARA IN BADIA;Gabrieli;;13/07/2020;19/07/2020;camere familiari;186;186;186;;;eur
+trivago;2020-05-25;CORVARA IN BADIA;Ciasa Blancia;;13/07/2020;19/07/2020;camere familiari;191;191;191;;;eur
+trivago;2020-05-25;CORVARA IN BADIA;Hotel Gran Fanes;3;13/07/2020;19/07/2020;camere familiari;243;243;291;291;243;eur
+trivago;2020-05-25;CORVARA IN BADIA;Hotel Marmolada;4;13/07/2020;19/07/2020;camere familiari;464;464;515;515;464;eur
+trivago;2020-05-25;PESCASSEROLI;Cocoon;3;13/07/2020;19/07/2020;camere familiari;75;75;75;;;eur
+trivago;2020-05-25;PESCASSEROLI;Orso Bianco;3;13/07/2020;19/07/2020;camere familiari;78;82;78;93;82;eur
+trivago;2020-05-25;PESCASSEROLI;La Casa Al Vicoletto;;13/07/2020;19/07/2020;camere familiari;85;85;85;;;eur
+trivago;2020-05-25;PESCASSEROLI;Hotel Pinguino;3;13/07/2020;19/07/2020;camere familiari;88;88;171;196;;eur
+trivago;2020-05-25;PESCASSEROLI;Pescasseroli - Trilocale In Residence La Madonnina;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;PESCASSEROLI;Paradiso;3;13/07/2020;19/07/2020;camere familiari;93;93;93;;;eur
+trivago;2020-05-25;PESCASSEROLI;Alle Vecchie Arcate;3;13/07/2020;19/07/2020;camere familiari;95;95;95;95;95;eur
+trivago;2020-05-25;PESCASSEROLI;Casa Nel Cuore Della Pineta;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;PESCASSEROLI;La Panoramica 89;3;13/07/2020;19/07/2020;camere familiari;117;117;117;117;117;eur
+trivago;2020-05-25;PESCASSEROLI;Pescasseroli Holiday House;;13/07/2020;19/07/2020;camere familiari;123;123;123;;;eur
+trivago;2020-05-25;PESCASSEROLI;Iris;3;13/07/2020;19/07/2020;camere familiari;123;124;123;;;eur
+trivago;2020-05-25;PESCASSEROLI;Faggio Rosso;3;13/07/2020;19/07/2020;camere familiari;124;124;124;124;124;eur
+trivago;2020-05-25;PESCASSEROLI;Principe Di Napoli 3;;13/07/2020;19/07/2020;camere familiari;128;128;128;;;eur
+trivago;2020-05-25;PESCASSEROLI;Un Cottage A Pescasseroli;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;PESCASSEROLI;Residence Club Primula;4;13/07/2020;19/07/2020;camere familiari;142;142;142;161;161;eur
+trivago;2020-05-25;PESCASSEROLI;Hotel Sport Daniel;4;13/07/2020;19/07/2020;camere familiari;149;150;150;150;150;eur
+trivago;2020-05-25;PESCASSEROLI;Bamby;3;13/07/2020;19/07/2020;camere familiari;164;164;164;164;164;eur
+trivago;2020-05-25;PESCASSEROLI;Grand del Parco;3;13/07/2020;19/07/2020;camere familiari;160;179;160;190;179;eur
+trivago;2020-05-25;PESCASSEROLI;Borgo Delle Ginestre;;13/07/2020;19/07/2020;camere familiari;156;195;156;;;eur
+trivago;2020-05-25;ABANO TERME;Hotel President Terme;5;13/07/2020;19/07/2020;camere familiari;338;397;338;338;338;eur
+trivago;2020-05-25;ABANO TERME;Appartamento Internazionale;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ABANO TERME;Modern & Spacious Loft Apartment For 4 In Abano;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ABANO TERME;Eleganza E Relax Nel Centro;;13/07/2020;19/07/2020;camere familiari;91;91;114;;;eur
+trivago;2020-05-25;ABANO TERME;Agriturismo Monteortone;;13/07/2020;19/07/2020;camere familiari;96;96;96;96;96;eur
+trivago;2020-05-25;ABANO TERME;La Casa Di Giò;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ABANO TERME;Casarelax;;13/07/2020;19/07/2020;camere familiari;104;104;104;;;eur
+trivago;2020-05-25;ABANO TERME;Suite 102 Zona Pedonale;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ABANO TERME;Park Hotel Terme;4;13/07/2020;19/07/2020;camere familiari;119;119;119;119;119;eur
+trivago;2020-05-25;ABANO TERME;Casa Nespolo Abano Terme;;13/07/2020;19/07/2020;camere familiari;122;123;;;;eur
+trivago;2020-05-25;ABANO TERME;Corte Dacqua: App. Lilium;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ABANO TERME;Hotel Terme Orvieto;4;13/07/2020;19/07/2020;camere familiari;299;299;299;299;299;eur
+trivago;2020-05-25;ACIREALE;Baita Di Mare;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ACIREALE;Casa Vacanze Al Mare Pozzillo;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ACIREALE;Casa Agata;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ACIREALE;La Corte Di Aci - (casa Aci);;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ACIREALE;La Corte Di Aci - (casa Galatea);;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ACIREALE;Minicurcu;;13/07/2020;19/07/2020;camere familiari;71;74;71;;;eur
+trivago;2020-05-25;ACIREALE;sciddicu rooms;;13/07/2020;19/07/2020;camere familiari;74;74;74;;;eur
+trivago;2020-05-25;ACIREALE;Casa delle Aci;;13/07/2020;19/07/2020;camere familiari;75;75;75;;;eur
+trivago;2020-05-25;ACIREALE;House Bellavista;;13/07/2020;19/07/2020;camere familiari;75;75;75;;;eur
+trivago;2020-05-25;ACIREALE;La Corte Di Aci (casa Aci);;13/07/2020;19/07/2020;camere familiari;76;76;76;;;eur
+trivago;2020-05-25;ACIREALE;Casa Desy;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ACIREALE;Casa Sicilia Acireale;;13/07/2020;19/07/2020;camere familiari;76;76;76;;;eur
+trivago;2020-05-25;ACIREALE;Casaluna Santa Tecla Mare;;13/07/2020;19/07/2020;camere familiari;76;76;76;;;eur
+trivago;2020-05-25;ACIREALE;Al Borgo Marinaro;;13/07/2020;19/07/2020;camere familiari;78;78;;;;eur
+trivago;2020-05-25;ACIREALE;Barocco Etna E Mare;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;ACIREALE;La Via Del Mare - Acireale Centro Storico;;13/07/2020;19/07/2020;camere familiari;80;80;;;;eur
+trivago;2020-05-25;ACIREALE;Maranino;;13/07/2020;19/07/2020;camere familiari;81;81;81;;;eur
+trivago;2020-05-25;ACIREALE;Holidays In Sicily;;13/07/2020;19/07/2020;camere familiari;82;82;82;;;eur
+trivago;2020-05-25;ACIREALE;La Maison Blanche;;13/07/2020;19/07/2020;camere familiari;84;84;84;;;eur
+trivago;2020-05-25;ACIREALE;Casa Vacanze Dante;;13/07/2020;19/07/2020;camere familiari;84;84;84;;;eur
+trivago;2020-05-25;ACIREALE;Casa Sommacco (capo Mulini);;13/07/2020;19/07/2020;camere familiari;84;84;84;;;eur
+trivago;2020-05-25;ACIREALE;Villa Corallo Dell'Etna;;13/07/2020;19/07/2020;camere familiari;75;86;75;75;75;eur
+trivago;2020-05-25;ACIREALE;Baia Pozzillo;;13/07/2020;19/07/2020;camere familiari;86;86;86;;;eur
+trivago;2020-05-25;ACIREALE;Appartampeppe;;13/07/2020;19/07/2020;camere familiari;87;87;87;;;eur
+trivago;2020-05-25;ACIREALE;Suite Panoramica , Parcheggio, In Villa Etna-mare.;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;BORMIO;Casa Lucia;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;BORMIO;Chalet Dellermellino;;13/07/2020;19/07/2020;camere familiari;105;105;115;;;eur
+trivago;2020-05-25;BORMIO;Casa Alberti;;13/07/2020;19/07/2020;camere familiari;114;114;114;;;eur
+trivago;2020-05-25;BORMIO;Villa Alma;;13/07/2020;19/07/2020;camere familiari;115;115;115;;;eur
+trivago;2020-05-25;BORMIO;Villa Feleit;;13/07/2020;19/07/2020;camere familiari;117;117;128;;;eur
+trivago;2020-05-25;BORMIO;Casa Vacanza Valfurva;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;BORMIO;Delizioso Bilocale Immerso Nel Verde Comodissimo;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;BORMIO;Residenza Sertorelli;;13/07/2020;19/07/2020;camere familiari;123;123;;;;eur
+trivago;2020-05-25;BORMIO;Italianway - San Pietro 8;;13/07/2020;19/07/2020;camere familiari;126;126;190;;;eur
+trivago;2020-05-25;BORMIO;Appartamento Ampio;;13/07/2020;19/07/2020;camere familiari;127;127;127;;;eur
+trivago;2020-05-25;BORMIO;Voglia Di Veglia;;13/07/2020;19/07/2020;camere familiari;131;131;131;;;eur
+trivago;2020-05-25;BORMIO;Chalet Stelle Di Neve;;13/07/2020;19/07/2020;camere familiari;133;133;133;;;eur
+trivago;2020-05-25;BORMIO;Casa Melide;;13/07/2020;19/07/2020;camere familiari;136;136;;;;eur
+trivago;2020-05-25;BORMIO;Chalet Ceppo;;13/07/2020;19/07/2020;camere familiari;137;137;137;;;eur
+trivago;2020-05-25;BORMIO;Appartamenti Serena;;13/07/2020;19/07/2020;camere familiari;140;140;140;;;eur
+trivago;2020-05-25;BORMIO;Casa Fonsi, Ampio Alloggio In Posizione Strategica;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;BORMIO;Appartamento Eira;;13/07/2020;19/07/2020;camere familiari;147;147;;;;eur
+trivago;2020-05-25;BORMIO;Vallecetta 2;;13/07/2020;19/07/2020;camere familiari;149;149;149;;;eur
+trivago;2020-05-25;BORMIO;Bormio Appartamento Alla Fontana In Mansarda;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;BORMIO;Residence Rose;;13/07/2020;19/07/2020;camere familiari;154;154;154;;;eur
+trivago;2020-05-25;BORMIO;Appartamenti Pirovano;;13/07/2020;19/07/2020;camere familiari;155;155;155;;;eur
+trivago;2020-05-25;BORMIO;Mansarda In Villa Santa Cecilia;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;BORMIO;Chrys B&b 2;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;BORMIO;Baita Clementi;4;13/07/2020;19/07/2020;camere familiari;165;165;165;165;165;eur
+trivago;2020-05-25;BORMIO;Hotel Gufo;3;13/07/2020;19/07/2020;camere familiari;166;166;166;166;166;eur
+trivago;2020-05-25;MONTECATINI ;Attico Magnani Centrale E Luminoso A Montecatini;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;MONTECATINI ;Grand Hotel & La Pace;5;13/07/2020;19/07/2020;camere familiari;327;327;327;;;eur
+trivago;2020-05-25;MONTECATINI ;Hotel Montecatini Palace;5;13/07/2020;19/07/2020;camere familiari;339;367;370;370;339;eur
+trivago;2020-05-25;MONTECATINI ;Grand Hotel Bellavista Palace;5;13/07/2020;19/07/2020;camere familiari;322;376;322;322;322;eur
+trivago;2020-05-25;MONTECATINI ;La Casetta Nel Verde, Aperta Al Mondo;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;MONTECATINI ;Holiday Matteotti;;13/07/2020;19/07/2020;camere familiari;44;44;44;54;;eur
+trivago;2020-05-25;MONTECATINI ;Hotel Florida;3;13/07/2020;19/07/2020;camere familiari;48;48;48;48;48;eur
+trivago;2020-05-25;MONTECATINI ;Salus;3;13/07/2020;19/07/2020;camere familiari;51;51;51;65;65;eur
+trivago;2020-05-25;MONTECATINI ;Montecatini Suites;;13/07/2020;19/07/2020;camere familiari;53;53;56;;;eur
+trivago;2020-05-25;MONTECATINI ;Giovanna;3;13/07/2020;19/07/2020;camere familiari;53;53;53;53;53;eur
+trivago;2020-05-25;MONTECATINI ;Hotel Resort Montecatini;3;13/07/2020;19/07/2020;camere familiari;54;54;54;;;eur
+trivago;2020-05-25;MONTECATINI ;Dolfi Home;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;MONTECATINI ;Il Girasole Con Wi-fi Unlimited;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;MONTECATINI ;Hotel Tonfoni;3;13/07/2020;19/07/2020;camere familiari;62;62;74;74;67;eur
+trivago;2020-05-25;MONTECATINI ;Dalla Bibi;;13/07/2020;19/07/2020;camere familiari;65;65;65;;;eur
+trivago;2020-05-25;MONTECATINI ;Appartamento Posizione Strategica;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;MONTECATINI ;Hotel Conchiglia;2;13/07/2020;19/07/2020;camere familiari;68;68;68;73;73;eur
+trivago;2020-05-25;MONTECATINI ;Prati;3;13/07/2020;19/07/2020;camere familiari;69;69;69;69;69;eur
+trivago;2020-05-25;MONTECATINI ;Marina;3;13/07/2020;19/07/2020;camere familiari;69;69;69;;;eur
+trivago;2020-05-25;MONTECATINI ;Innocenti;3;13/07/2020;19/07/2020;camere familiari;67;71;71;71;71;eur
+trivago;2020-05-25;MONTECATINI ;Casa Jessica;;13/07/2020;19/07/2020;camere familiari;73;73;;;;eur
+trivago;2020-05-25;MONTECATINI ;Appartamento A Villa Tosca;;13/07/2020;19/07/2020;camere familiari;75;75;75;;;eur
+trivago;2020-05-25;MONTECATINI ;B&B Casa Fedora;;13/07/2020;19/07/2020;camere familiari;76;76;76;76;76;eur
+trivago;2020-05-25;MONTECATINI ;Petit Chateau;;13/07/2020;19/07/2020;camere familiari;77;78;103;103;88;eur
+trivago;2020-05-25;MONTECATINI ;Venezia;3;13/07/2020;19/07/2020;camere familiari;78;78;78;78;78;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Hotel Roma;3;13/07/2020;19/07/2020;camere familiari;69;69;69;69;69;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Appartamento In Collina A Salsomaggiore Terme;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Ricordo Du Parc;3;13/07/2020;19/07/2020;camere familiari;82;82;93;108;102;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Albergo Esperia;;13/07/2020;19/07/2020;camere familiari;86;86;86;101;101;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Elite;3;13/07/2020;19/07/2020;camere familiari;96;96;96;96;96;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Farnese;3;13/07/2020;19/07/2020;camere familiari;96;96;100;106;96;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Bruna;;13/07/2020;19/07/2020;camere familiari;96;96;96;;;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Boomerang Tabiano;3;13/07/2020;19/07/2020;camere familiari;105;105;115;115;115;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Hotel Garden Ristorante;3;13/07/2020;19/07/2020;camere familiari;107;107;123;123;116;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Plaza;3;13/07/2020;19/07/2020;camere familiari;111;119;111;111;111;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Querce;3;13/07/2020;19/07/2020;camere familiari;123;123;123;123;123;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Hotel Ducale;3;13/07/2020;19/07/2020;camere familiari;129;141;129;129;129;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Casa Romagnosi;4;13/07/2020;19/07/2020;camere familiari;153;153;153;153;153;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Hotel Pandos;4;13/07/2020;19/07/2020;camere familiari;153;153;170;170;153;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Azzurra;;13/07/2020;19/07/2020;camere familiari;168;168;168;;;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Regina;4;13/07/2020;19/07/2020;camere familiari;187;187;187;187;187;eur
+trivago;2020-05-25;FIRENZE;Donati Luxury Tower;;10/08/2020;15/08/2020;camere familiari;440;440;440;;;eur
+trivago;2020-05-25;FIRENZE;LHP Hotel River & SPA;5;10/08/2020;15/08/2020;camere familiari;432;484;432;432;432;eur
+trivago;2020-05-25;FIRENZE;Helvetia & Bristol Firenze - Starhotels Collezione;5;10/08/2020;15/08/2020;camere familiari;384;500;500;489;384;eur
+trivago;2020-05-25;FIRENZE;Hotel Montebello Splendid;5;10/08/2020;15/08/2020;camere familiari;500;500;500;600;600;eur
+trivago;2020-05-25;FIRENZE;Ville sull'Arno;5;10/08/2020;15/08/2020;camere familiari;453;503;502;546;487;eur
+trivago;2020-05-25;FIRENZE;Hotel Lungarno;5;10/08/2020;15/08/2020;camere familiari;530;530;664;602;602;eur
+trivago;2020-05-25;FIRENZE;Hotel Regency;5;10/08/2020;15/08/2020;camere familiari;303;549;529;529;303;eur
+trivago;2020-05-25;FIRENZE;Hotel Antica Torre di Via Tornabuoni 1;5;10/08/2020;15/08/2020;camere familiari;485;589;485;517;517;eur
+trivago;2020-05-25;FIRENZE;Four Seasons Hotel Firenze;5;10/08/2020;15/08/2020;camere familiari;693;693;693;1.146;693;eur
+trivago;2020-05-25;FIRENZE;Sina Villa Medici, Autograph Collection;5;10/08/2020;15/08/2020;camere familiari;770;770;770;806;806;eur
+trivago;2020-05-25;FIRENZE;Hotel Villa La Vedetta;5;10/08/2020;15/08/2020;camere familiari;775;775;775;775;775;eur
+trivago;2020-05-25;FIRENZE;JK Place Firenze;5;10/08/2020;15/08/2020;camere familiari;1.120;1.120;1.210;1.210;1.120;eur
+trivago;2020-05-25;FIRENZE;Hotel Villa Cora;5;10/08/2020;15/08/2020;camere familiari;868;1.169;868;868;;eur
+trivago;2020-05-25;MILANO;Hotel VIU Milan;5;10/08/2020;15/08/2020;camere familiari;346;389;420;572;484;eur
+trivago;2020-05-25;MILANO;Magna Pars Suites;5;10/08/2020;15/08/2020;camere familiari;323;418;369;369;418;eur
+trivago;2020-05-25;MILANO;ME Milan Il Duca;5;10/08/2020;15/08/2020;camere familiari;582;641;641;641;582;eur
+trivago;2020-05-25;MILANO;Hotel Meliá Milano;5;10/08/2020;15/08/2020;camere familiari;690;716;690;690;;eur
+trivago;2020-05-25;MILANO;Four Seasons Hotel Milano;5;10/08/2020;15/08/2020;camere familiari;670;798;670;771;670;eur
+trivago;2020-05-25;MILANO;Mandarin Oriental, Milan;5;10/08/2020;15/08/2020;camere familiari;1.764;1.764;1.770;1.891;1.749;eur
+trivago;2020-05-25;MILANO;Armani Hotel Milano;5;10/08/2020;15/08/2020;camere familiari;4.620;4.620;4.620;4.620;4.620;eur
+trivago;2020-05-25;MILANO;Euro Inn;;10/08/2020;15/08/2020;camere familiari;52;52;55;55;53;eur
+trivago;2020-05-25;MILANO;Hostel California;;10/08/2020;15/08/2020;camere familiari;48;58;55;59;59;eur
+trivago;2020-05-25;MILANO;Hotel Greco;2;10/08/2020;15/08/2020;camere familiari;68;68;74;;;eur
+trivago;2020-05-25;MILANO;Bovisa;;10/08/2020;15/08/2020;camere familiari;69;69;75;;;eur
+trivago;2020-05-25;MILANO;New Generation Hostel Chic Sempione;;10/08/2020;15/08/2020;camere familiari;75;75;82;;;eur
+trivago;2020-05-25;MILANO;Hotel Catalani e Madrid;2;10/08/2020;15/08/2020;camere familiari;77;77;77;;;eur
+trivago;2020-05-25;MILANO;Golden Milano;;10/08/2020;15/08/2020;camere familiari;85;85;83;91;89;eur
+trivago;2020-05-25;MILANO;Milano Hostel;;10/08/2020;15/08/2020;camere familiari;81;86;85;;;eur
+trivago;2020-05-25;MILANO;Corvetto;1;10/08/2020;15/08/2020;camere familiari;88;88;89;;;eur
+trivago;2020-05-25;MILANO;Central Hostel Milano;;10/08/2020;15/08/2020;camere familiari;95;95;169;;;eur
+trivago;2020-05-25;MILANO;Best Western Antares Hotel Concorde;4;10/08/2020;15/08/2020;camere familiari;96;96;112;133;127;eur
+trivago;2020-05-25;MILANO;Residenza Certosa;;10/08/2020;15/08/2020;camere familiari;97;97;;;;eur
+trivago;2020-05-25;MILANO;Elite Milano Apartments;;10/08/2020;15/08/2020;camere familiari;103;103;111;;;eur
+trivago;2020-05-25;MILANO;Red Line Milano;;10/08/2020;15/08/2020;camere familiari;107;107;116;;;eur
+trivago;2020-05-25;MILANO;Babila Hostel;;10/08/2020;15/08/2020;camere familiari;110;110;99;99;110;eur
+trivago;2020-05-25;MILANO;Acca Palace;4;10/08/2020;15/08/2020;camere familiari;70;120;120;112;70;eur
+trivago;2020-05-25;MILANO;Klima Hotel Milano Fiere;4;10/08/2020;15/08/2020;camere familiari;121;121;135;129;121;eur
+trivago;2020-05-25;MILANO;Montecarlo;3;10/08/2020;15/08/2020;camere familiari;123;123;129;145;139;eur
+trivago;2020-05-25;NAPOLI;Ausonia;;10/08/2020;15/08/2020;camere familiari;92;92;98;113;106;eur
+trivago;2020-05-25;NAPOLI;Skyhouse Beverello;;10/08/2020;15/08/2020;camere familiari;149;151;160;160;160;eur
+trivago;2020-05-25;NAPOLI;It's Room;;10/08/2020;15/08/2020;camere familiari;107;162;142;120;107;eur
+trivago;2020-05-25;NAPOLI;Appartamento Vista Mare napoli;;10/08/2020;15/08/2020;camere familiari;165;165;181;;;eur
+trivago;2020-05-25;NAPOLI;Corte Capomazza Appartamenti;5;10/08/2020;15/08/2020;camere familiari;154;207;157;157;;eur
+trivago;2020-05-25;NAPOLI;Riviera Luxury Suites;;10/08/2020;15/08/2020;camere familiari;308;308;308;;;eur
+trivago;2020-05-25;NAPOLI;Motel Annalisa;;10/08/2020;15/08/2020;camere familiari;44;44;44;;;eur
+trivago;2020-05-25;NAPOLI;Carlos Room;;10/08/2020;15/08/2020;camere familiari;48;48;48;;;eur
+trivago;2020-05-25;NAPOLI;Napoli Panoramica;;10/08/2020;15/08/2020;camere familiari;50;50;;;;eur
+trivago;2020-05-25;NAPOLI;Hotel Colombo;3;10/08/2020;15/08/2020;camere familiari;40;54;50;66;50;eur
+trivago;2020-05-25;NAPOLI;Il Basso Nel Vicoletto;;10/08/2020;15/08/2020;camere familiari;65;65;65;;;eur
+trivago;2020-05-25;NAPOLI;Casa Soprammuro;;10/08/2020;15/08/2020;camere familiari;66;66;66;;;eur
+trivago;2020-05-25;NAPOLI;Ginevra;1;10/08/2020;15/08/2020;camere familiari;65;66;65;;;eur
+trivago;2020-05-25;NAPOLI;Apartment With Terrace In Spaccanapoli;;10/08/2020;15/08/2020;camere familiari;66;66;106;;;eur
+trivago;2020-05-25;NAPOLI;Napoli Stazione;;10/08/2020;15/08/2020;camere familiari;68;68;180;;;eur
+trivago;2020-05-25;NAPOLI;Dante Casa Vacanze;;10/08/2020;15/08/2020;camere familiari;68;68;90;;;eur
+trivago;2020-05-25;NAPOLI;Angioino Rooms;;10/08/2020;15/08/2020;camere familiari;69;69;69;69;69;eur
+trivago;2020-05-25;NAPOLI;Don Vittorio Home;;10/08/2020;15/08/2020;camere familiari;70;70;70;;;eur
+trivago;2020-05-25;NAPOLI;La Casa Di Toto;;10/08/2020;15/08/2020;camere familiari;72;72;72;;;eur
+trivago;2020-05-25;NAPOLI;American Hotel Naples;4;10/08/2020;15/08/2020;camere familiari;68;74;101;101;68;eur
+trivago;2020-05-25;NAPOLI;A Casa E Margari;;10/08/2020;15/08/2020;camere familiari;74;74;85;85;74;eur
+trivago;2020-05-25;ROMA;Liberty Rome Suites;;10/08/2020;15/08/2020;camere familiari;98;98;100;100;;eur
+trivago;2020-05-25;ROMA;B&B Mr. Brown;;10/08/2020;15/08/2020;camere familiari;107;107;107;107;107;eur
+trivago;2020-05-25;ROMA;Residenza Crescenzio;;10/08/2020;15/08/2020;camere familiari;167;167;184;184;167;eur
+trivago;2020-05-25;ROMA;Casa Vacanze SPQR;;10/08/2020;15/08/2020;camere familiari;228;228;228;;;eur
+trivago;2020-05-25;ROMA;Casa Belsiana Luxury Apartment;5;10/08/2020;15/08/2020;camere familiari;224;228;239;;;eur
+trivago;2020-05-25;ROMA;Grand Hotel De La Minerve;5;10/08/2020;15/08/2020;camere familiari;252;252;567;567;567;eur
+trivago;2020-05-25;ROMA;Grand Hotel Palace;5;10/08/2020;15/08/2020;camere familiari;257;257;;;;eur
+trivago;2020-05-25;ROMA;Parco Delle Nazioni;5;10/08/2020;15/08/2020;camere familiari;301;301;301;301;294;eur
+trivago;2020-05-25;ROMA;Hotel Indigo Rome - St. George;5;10/08/2020;15/08/2020;camere familiari;255;302;327;361;281;eur
+trivago;2020-05-25;ROMA;NH Collection Palazzo Cinquecento;5;10/08/2020;15/08/2020;camere familiari;311;321;392;457;362;eur
+trivago;2020-05-25;ROMA;Lord Byron;5;10/08/2020;15/08/2020;camere familiari;181;369;464;464;369;eur
+trivago;2020-05-25;ROMA;Locanda del Sole;;10/08/2020;15/08/2020;camere familiari;374;374;414;414;;eur
+trivago;2020-05-25;ROMA;Palazzo Dama;5;10/08/2020;15/08/2020;camere familiari;395;395;395;395;395;eur
+trivago;2020-05-25;ROMA;The H'All Tailor Suite;5;10/08/2020;15/08/2020;camere familiari;465;465;542;542;465;eur
+trivago;2020-05-25;ROMA;Starhotels Hotel d'Inghilterra Roma;5;10/08/2020;15/08/2020;camere familiari;446;477;446;564;564;eur
+trivago;2020-05-25;ROMA;Rome Cavalieri, A Waldorf Astoria Hotel;5;10/08/2020;15/08/2020;camere familiari;458;508;489;546;513;eur
+trivago;2020-05-25;ROMA;Hotel Sina Bernini Bristol;5;10/08/2020;15/08/2020;camere familiari;584;584;584;584;;eur
+trivago;2020-05-25;ROMA;Raphaël Hotel;5;10/08/2020;15/08/2020;camere familiari;455;617;455;554;617;eur
+trivago;2020-05-25;ROMA;Parco dei Principi;5;10/08/2020;15/08/2020;camere familiari;685;685;685;685;;eur
+trivago;2020-05-25;ROMA;Palazzo Naiadi, The Dedica Anthology, Autograph Collection;5;10/08/2020;15/08/2020;camere familiari;760;765;760;783;783;eur
+trivago;2020-05-25;ROMA;Palazzo Manfredi;5;10/08/2020;15/08/2020;camere familiari;296;832;329;343;296;eur
+trivago;2020-05-25;ROMA;Grand Hotel Via Veneto;5;10/08/2020;15/08/2020;camere familiari;855;855;1.286;855;1.286;eur
+trivago;2020-05-25;ROMA;Palazzo Montemartini a Radisson Collection;5;10/08/2020;15/08/2020;camere familiari;866;867;866;866;;eur
+trivago;2020-05-25;ROMA;Villa Agrippina Gran Meliá;5;10/08/2020;15/08/2020;camere familiari;997;1.043;1.693;1.693;997;eur
+trivago;2020-05-25;ROMA;Rocco Forte Hotel De Russie;5;10/08/2020;15/08/2020;camere familiari;1.285;1.285;1.285;1.285;;eur
+trivago;2020-05-25;ROMA;Singer Palace Hotel;5;10/08/2020;15/08/2020;camere familiari;1.278;1.432;1.524;1.538;1.278;eur
+trivago;2020-05-25;ROMA;J.K. Place Roma;5;10/08/2020;15/08/2020;camere familiari;1.513;1.563;1.513;1.513;1.513;eur
+trivago;2020-05-25;ROMA;Grand Hotel Plaza;5;10/08/2020;15/08/2020;camere familiari;1.343;1.596;1.343;1.453;1.453;eur
+trivago;2020-05-25;ROMA;Hotel Majestic Rome;5;10/08/2020;15/08/2020;camere familiari;3.358;3.657;3.657;3.657;3.657;eur
+trivago;2020-05-25;VENEZIA;Princess Guest House;5;10/08/2020;15/08/2020;camere familiari;78;140;140;;;eur
+trivago;2020-05-25;VENEZIA;Hotel Hilton Molino Stucky Venice;5;10/08/2020;15/08/2020;camere familiari;371;412;371;437;419;eur
+trivago;2020-05-25;VENEZIA;Grand Hotel Dei Dogi, The Dedica Anthology, Autograph Collection;5;10/08/2020;15/08/2020;camere familiari;323;550;550;522;522;eur
+trivago;2020-05-25;VENEZIA;Belmond Hotel Cipriani;5;10/08/2020;15/08/2020;camere familiari;2.580;2.580;2.580;2.580;2.580;eur
+trivago;2020-05-25;VENEZIA;AO Ostello Venezia Mestre;2;10/08/2020;15/08/2020;camere familiari;35;54;39;;;eur
+trivago;2020-05-25;VENEZIA;Santa Marta;;10/08/2020;15/08/2020;camere familiari;72;72;72;;;eur
+trivago;2020-05-25;VENEZIA;Residenza Universitaria Gesuiti;;10/08/2020;15/08/2020;camere familiari;86;86;86;;;eur
+trivago;2020-05-25;VENEZIA;Colors;;10/08/2020;15/08/2020;camere familiari;89;89;100;100;92;eur
+trivago;2020-05-25;VENEZIA;Central Cozy Appartment, Free WiFi, smart TV, Air Condition;;10/08/2020;15/08/2020;camere familiari;92;92;121;;;eur
+trivago;2020-05-25;VENEZIA;Camping Venezia Village;;10/08/2020;15/08/2020;camere familiari;93;93;111;;;eur
+trivago;2020-05-25;VENEZIA;Jolly Camping in Town;;10/08/2020;15/08/2020;camere familiari;97;97;112;;;eur
+trivago;2020-05-25;VENEZIA;Rialto Apartment;;10/08/2020;15/08/2020;camere familiari;108;108;116;;;eur
+trivago;2020-05-25;VENEZIA;Veneziacentopercento;;10/08/2020;15/08/2020;camere familiari;100;109;100;;;eur
+trivago;2020-05-25;VENEZIA;Charming Venice Apartments;;10/08/2020;15/08/2020;camere familiari;112;112;155;;;eur
+trivago;2020-05-25;VENEZIA;Murano Place;;10/08/2020;15/08/2020;camere familiari;86;116;86;;;eur
+trivago;2020-05-25;VENEZIA;Venice Apartment;;10/08/2020;15/08/2020;camere familiari;118;118;130;;;eur
+trivago;2020-05-25;VENEZIA;Il Glicine Fiorito;;10/08/2020;15/08/2020;camere familiari;121;121;121;121;121;eur
+trivago;2020-05-25;VENEZIA;Residenza Goldoni;;10/08/2020;15/08/2020;camere familiari;114;122;122;122;114;eur
+trivago;2020-05-25;VENEZIA;Casa Cosmo;;10/08/2020;15/08/2020;camere familiari;119;122;124;;;eur
+trivago;2020-05-25;VENEZIA;Alloggi Alla Scala;;10/08/2020;15/08/2020;camere familiari;122;122;122;;;eur
+trivago;2020-05-25;BOLSENA;Camping Valdisole;;10/08/2020;15/08/2020;camere familiari;53;53;53;;;eur
+trivago;2020-05-25;BOLSENA;Casa Rita;;10/08/2020;15/08/2020;camere familiari;109;109;109;;;eur
+trivago;2020-05-25;BOLSENA;Nazionale;3;10/08/2020;15/08/2020;camere familiari;114;114;114;114;114;eur
+trivago;2020-05-25;BOLSENA;Bolsena Holiday House;;10/08/2020;15/08/2020;camere familiari;120;120;120;;;eur
+trivago;2020-05-25;BOLSENA;Casa Cristina;;10/08/2020;15/08/2020;camere familiari;123;123;123;;;eur
+trivago;2020-05-25;BOLSENA;Meridiano 12;;10/08/2020;15/08/2020;camere familiari;134;134;134;;;eur
+trivago;2020-05-25;BOLSENA;I Carrilli;;10/08/2020;15/08/2020;camere familiari;144;144;144;144;;eur
+trivago;2020-05-25;BOLSENA;La Piazzetta;;10/08/2020;15/08/2020;camere familiari;144;144;144;;;eur
+trivago;2020-05-25;BOLSENA;Il Vesconte;;10/08/2020;15/08/2020;camere familiari;149;149;149;;;eur
+trivago;2020-05-25;BOLSENA;Casa Reminiscenza;;10/08/2020;15/08/2020;camere familiari;151;151;;;;eur
+trivago;2020-05-25;BOLSENA;Ai Platani Hotel Moderno;3;10/08/2020;15/08/2020;camere familiari;184;184;184;184;184;eur
+trivago;2020-05-25;BOLSENA;Columbus;4;10/08/2020;15/08/2020;camere familiari;199;199;199;199;199;eur
+trivago;2020-05-25;RIVA DEL GARDA;Lido Palace;5;10/08/2020;15/08/2020;camere familiari;2.695;2.695;2.695;2.695;2.695;eur
+trivago;2020-05-25;RIVA DEL GARDA;Residence Gemma;;10/08/2020;15/08/2020;camere familiari;83;83;88;;;eur
+trivago;2020-05-25;RIVA DEL GARDA;Apartment Brione;;10/08/2020;15/08/2020;camere familiari;112;112;112;;;eur
+trivago;2020-05-25;RIVA DEL GARDA;Carloni Enrica Morellato;;10/08/2020;15/08/2020;camere familiari;114;114;114;;;eur
+trivago;2020-05-25;RIVA DEL GARDA;Appartamento Vittoria;;10/08/2020;15/08/2020;camere familiari;115;115;122;;;eur
+trivago;2020-05-25;RIVA DEL GARDA;Albergo Stella Ditalia;;10/08/2020;15/08/2020;camere familiari;116;116;116;116;116;eur
+trivago;2020-05-25;RIVA DEL GARDA;Appartamento Giulia;;10/08/2020;15/08/2020;camere familiari;116;116;116;;;eur
+trivago;2020-05-25;RIVA DEL GARDA;Jane's House - Sport&relax;;10/08/2020;15/08/2020;camere familiari;121;121;;;;eur
+trivago;2020-05-25;RIVA DEL GARDA;Spiaggia Residence;;10/08/2020;15/08/2020;camere familiari;122;122;122;;;eur
+trivago;2020-05-25;RIVA DEL GARDA;Casa Le Mura;;10/08/2020;15/08/2020;camere familiari;126;126;126;;;eur
+trivago;2020-05-25;RIVA DEL GARDA;Appartamento Lara;;10/08/2020;15/08/2020;camere familiari;126;126;133;;;eur
+trivago;2020-05-25;RIVA DEL GARDA;Primo;3;10/08/2020;15/08/2020;camere familiari;127;127;127;;;eur
+trivago;2020-05-25;RIVA DEL GARDA;Rialto;1;10/08/2020;15/08/2020;camere familiari;128;128;128;128;128;eur
+trivago;2020-05-25;RIVA DEL GARDA;Via S. Maria, 19 Appartamento;;10/08/2020;15/08/2020;camere familiari;128;128;128;;;eur
+trivago;2020-05-25;RIVA DEL GARDA;Viale Trento;;10/08/2020;15/08/2020;camere familiari;129;129;129;;;eur
+trivago;2020-05-25;RIVA DEL GARDA;Canarino;3;10/08/2020;15/08/2020;camere familiari;121;132;132;178;178;eur
+trivago;2020-05-25;RIVA DEL GARDA;Walk Everywhere;;10/08/2020;15/08/2020;camere familiari;132;132;162;;;eur
+trivago;2020-05-25;RIVA DEL GARDA;Villa Berta;;10/08/2020;15/08/2020;camere familiari;133;133;;;;eur
+trivago;2020-05-25;RIVA DEL GARDA;Luxury And Smart;;10/08/2020;15/08/2020;camere familiari;135;135;135;;;eur
+trivago;2020-05-25;RIVA DEL GARDA;Rivappartamenti;;10/08/2020;15/08/2020;camere familiari;135;135;;;;eur
+trivago;2020-05-25;RIVA DEL GARDA;Athos;;10/08/2020;15/08/2020;camere familiari;135;136;140;141;135;eur
+trivago;2020-05-25;RIVA DEL GARDA;Dolce Riva Downtown Apartment;;10/08/2020;15/08/2020;camere familiari;138;138;177;;;eur
+trivago;2020-05-25;RIVA DEL GARDA;Luxury And Smart;;10/08/2020;15/08/2020;camere familiari;138;138;138;;;eur
+trivago;2020-05-25;SIRMIONE;Residence Punta Gro;;10/08/2020;15/08/2020;camere familiari;64;64;57;;;eur
+trivago;2020-05-25;SIRMIONE;Camping Villaggio Tiglio;;10/08/2020;15/08/2020;camere familiari;61;96;65;;;eur
+trivago;2020-05-25;SIRMIONE;Hotel Gardenia;3;10/08/2020;15/08/2020;camere familiari;101;101;140;122;106;eur
+trivago;2020-05-25;SIRMIONE;Monolocale Caravaggio;;10/08/2020;15/08/2020;camere familiari;103;103;103;;;eur
+trivago;2020-05-25;SIRMIONE;Residence Magnolie;;10/08/2020;15/08/2020;camere familiari;105;105;105;;;eur
+trivago;2020-05-25;SIRMIONE;Appartamenti America;;10/08/2020;15/08/2020;camere familiari;103;106;103;;;eur
+trivago;2020-05-25;SIRMIONE;Al Faro-luxury Holiday Home;;10/08/2020;15/08/2020;camere familiari;106;106;106;;;eur
+trivago;2020-05-25;SIRMIONE;Poggio Al Lago;;10/08/2020;15/08/2020;camere familiari;111;111;;;;eur
+trivago;2020-05-25;SIRMIONE;Case Da Anna - Cascinale - Lago Di Garda;;10/08/2020;15/08/2020;camere familiari;116;116;116;;;eur
+trivago;2020-05-25;SIRMIONE;Adriana Sirmione;;10/08/2020;15/08/2020;camere familiari;121;121;;;;eur
+trivago;2020-05-25;SIRMIONE;Il Melograno;;10/08/2020;15/08/2020;camere familiari;129;129;129;129;129;eur
+trivago;2020-05-25;SIRMIONE;Sirmione;;10/08/2020;15/08/2020;camere familiari;130;130;130;;;eur
+trivago;2020-05-25;SIRMIONE;Il Canaletto;;10/08/2020;15/08/2020;camere familiari;130;130;;;;eur
+trivago;2020-05-25;SIRMIONE;Apartment With Communal Pool Close To Lake Garda;;10/08/2020;15/08/2020;camere familiari;133;133;227;;;eur
+trivago;2020-05-25;SIRMIONE;Sarno Appartamento;;10/08/2020;15/08/2020;camere familiari;133;133;133;;;eur
+trivago;2020-05-25;SIRMIONE;Appartamento Margherita;;10/08/2020;15/08/2020;camere familiari;135;135;;;;eur
+trivago;2020-05-25;SIRMIONE;Hotel Marolda;3;10/08/2020;15/08/2020;camere familiari;138;138;138;;;eur
+trivago;2020-05-25;SIRMIONE;Hotel La Paül;3;10/08/2020;15/08/2020;camere familiari;139;139;421;163;330;eur
+trivago;2020-05-25;SIRMIONE;Mavino Appartamenti;;10/08/2020;15/08/2020;camere familiari;140;140;;;;eur
+trivago;2020-05-25;SIRMIONE;Perla Sirmione;;10/08/2020;15/08/2020;camere familiari;141;141;141;;;eur
+trivago;2020-05-25;SIRMIONE;Casa Dello Zio;;10/08/2020;15/08/2020;camere familiari;143;143;143;;;eur
+trivago;2020-05-25;SIRMIONE;Isa Sirmione Apartments;;10/08/2020;15/08/2020;camere familiari;145;145;145;;;eur
+trivago;2020-05-25;SIRMIONE;Appartamento Per Vacanze Poggio Al Lago, Bilo, 4 E 5 , 4 Persone (sir100);;10/08/2020;15/08/2020;camere familiari;149;149;;;;eur
+trivago;2020-05-25;SIRMIONE;Villa Fiorita Sirmione;;10/08/2020;15/08/2020;camere familiari;149;149;165;;;eur
+trivago;2020-05-25;SIRMIONE;Villa Brema;;10/08/2020;15/08/2020;camere familiari;150;150;150;150;;eur
+trivago;2020-05-25;STRESA;Hotel Villa & Palazzo Aminta;5;10/08/2020;15/08/2020;camere familiari;749;810;749;749;749;eur
+trivago;2020-05-25;STRESA;Casa Della Torre;;10/08/2020;15/08/2020;camere familiari;79;79;108;;;eur
+trivago;2020-05-25;STRESA;Bilocale Dante;;10/08/2020;15/08/2020;camere familiari;100;100;100;;;eur
+trivago;2020-05-25;STRESA;Al 13 Blu;;10/08/2020;15/08/2020;camere familiari;101;101;101;;;eur
+trivago;2020-05-25;STRESA;Al 13 Rosso;;10/08/2020;15/08/2020;camere familiari;101;101;;;;eur
+trivago;2020-05-25;STRESA;Casa Elisa;;10/08/2020;15/08/2020;camere familiari;103;103;103;;;eur
+trivago;2020-05-25;STRESA;Casa Ines;;10/08/2020;15/08/2020;camere familiari;104;104;104;;;eur
+trivago;2020-05-25;STRESA;La Tana Del Lupo;;10/08/2020;15/08/2020;camere familiari;105;105;105;;;eur
+trivago;2020-05-25;STRESA;Casa Lawrence;;10/08/2020;15/08/2020;camere familiari;107;107;107;;;eur
+trivago;2020-05-25;STRESA;La Casa Dei Sogni;;10/08/2020;15/08/2020;camere familiari;107;107;107;;;eur
+trivago;2020-05-25;STRESA;La Rampolina;;10/08/2020;15/08/2020;camere familiari;108;108;;;;eur
+trivago;2020-05-25;STRESA;Casa Gènia;;10/08/2020;15/08/2020;camere familiari;108;108;;;;eur
+trivago;2020-05-25;STRESA;Casa Clara;;10/08/2020;15/08/2020;camere familiari;109;109;;;;eur
+trivago;2020-05-25;STRESA;Langelo;;10/08/2020;15/08/2020;camere familiari;110;110;110;;;eur
+trivago;2020-05-25;STRESA;Casa Yin E Yan In Stresa;;10/08/2020;15/08/2020;camere familiari;111;111;111;;;eur
+trivago;2020-05-25;STRESA;Fruitn Joy;;10/08/2020;15/08/2020;camere familiari;112;112;124;;;eur
+trivago;2020-05-25;STRESA;Sirena;;10/08/2020;15/08/2020;camere familiari;114;114;114;;;eur
+trivago;2020-05-25;STRESA;Elena;1;10/08/2020;15/08/2020;camere familiari;114;114;114;114;114;eur
+trivago;2020-05-25;STRESA;La Pergola;;10/08/2020;15/08/2020;camere familiari;115;115;;;;eur
+trivago;2020-05-25;STRESA;Genzianella;;10/08/2020;15/08/2020;camere familiari;119;119;;;;eur
+trivago;2020-05-25;STRESA;Stresa Apartment;;10/08/2020;15/08/2020;camere familiari;120;120;120;;;eur
+trivago;2020-05-25;STRESA;Villa Lucciola;;10/08/2020;15/08/2020;camere familiari;121;121;124;124;121;eur
+trivago;2020-05-25;STRESA;Lago Blu;;10/08/2020;15/08/2020;camere familiari;121;121;;;;eur
+trivago;2020-05-25;STRESA;Don Ezio;;10/08/2020;15/08/2020;camere familiari;121;121;121;;;eur
+trivago;2020-05-25;STRESA;Casa Elisabetta;;10/08/2020;15/08/2020;camere familiari;121;121;;;;eur
+trivago;2020-05-25;AMALFI;Appartamento Manuela;;10/08/2020;15/08/2020;camere familiari;145;145;;;;eur
+trivago;2020-05-25;AMALFI;Hotel Amalfi;3;10/08/2020;15/08/2020;camere familiari;150;150;150;;;eur
+trivago;2020-05-25;AMALFI;Villa Rina;;10/08/2020;15/08/2020;camere familiari;176;176;176;176;176;eur
+trivago;2020-05-25;AMALFI;Il Gabbiano Apartment;;10/08/2020;15/08/2020;camere familiari;185;185;185;;;eur
+trivago;2020-05-25;AMALFI;Lemon Garden;;10/08/2020;15/08/2020;camere familiari;195;195;195;;;eur
+trivago;2020-05-25;AMALFI;Casa Marisa;;10/08/2020;15/08/2020;camere familiari;203;203;203;;;eur
+trivago;2020-05-25;AMALFI;Casa Panoramica;;10/08/2020;15/08/2020;camere familiari;204;204;225;;;eur
+trivago;2020-05-25;AMALFI;Prima Luce;;10/08/2020;15/08/2020;camere familiari;204;204;204;;;eur
+trivago;2020-05-25;AMALFI;Residenza Del Duca;;10/08/2020;15/08/2020;camere familiari;208;208;226;;;eur
+trivago;2020-05-25;AMALFI;La Pergola;3;10/08/2020;15/08/2020;camere familiari;215;215;232;238;215;eur
+trivago;2020-05-25;AMALFI;Cupido Art House Amalfi;;10/08/2020;15/08/2020;camere familiari;218;218;;;;eur
+trivago;2020-05-25;AMALFI;La Casa Dei Venti;;10/08/2020;15/08/2020;camere familiari;218;218;218;;;eur
+trivago;2020-05-25;AMALFI;Casa Bianca Amore;;10/08/2020;15/08/2020;camere familiari;221;221;244;;;eur
+trivago;2020-05-25;AMALFI;Angela House;;10/08/2020;15/08/2020;camere familiari;226;226;;;;eur
+trivago;2020-05-25;AMALFI;Casa Amalfitana;;10/08/2020;15/08/2020;camere familiari;228;228;252;;;eur
+trivago;2020-05-25;AMALFI;Villa Mare Amalfi;;10/08/2020;15/08/2020;camere familiari;235;235;235;;;eur
+trivago;2020-05-25;AMALFI;Stella Marina;;10/08/2020;15/08/2020;camere familiari;239;239;;;;eur
+trivago;2020-05-25;AMALFI;Amalfi Hills Country Hotel;;10/08/2020;15/08/2020;camere familiari;158;241;158;158;158;eur
+trivago;2020-05-25;AMALFI;La Valle Delle Ferriere;;10/08/2020;15/08/2020;camere familiari;243;243;264;270;243;eur
+trivago;2020-05-25;AMALFI;Relais San Basilio Convento;;10/08/2020;15/08/2020;camere familiari;246;246;246;;;eur
+trivago;2020-05-25;AMALFI;Casa Lone;;10/08/2020;15/08/2020;camere familiari;246;246;246;;;eur
+trivago;2020-05-25;AMALFI;Piccolo Paradiso;;10/08/2020;15/08/2020;camere familiari;252;252;252;;;eur
+trivago;2020-05-25;AMALFI;Villa Maria Luigia;;10/08/2020;15/08/2020;camere familiari;254;254;274;274;254;eur
+trivago;2020-05-25;AMALFI;Villa Lara;3;10/08/2020;15/08/2020;camere familiari;256;256;256;;;eur
+trivago;2020-05-25;AMALFI;Casamalfi;;10/08/2020;15/08/2020;camere familiari;256;256;;;;eur
+trivago;2020-05-25;RIMINI;i-Suite Design Hotel;5;10/08/2020;15/08/2020;camere familiari;647;657;647;647;647;eur
+trivago;2020-05-25;RIMINI;Grand Hotel Rimini;5;10/08/2020;15/08/2020;camere familiari;732;732;766;772;732;eur
+trivago;2020-05-25;RIMINI;Sunflower City;2;10/08/2020;15/08/2020;camere familiari;52;52;53;;;eur
+trivago;2020-05-25;RIMINI;Berna B&B Youth People;;10/08/2020;15/08/2020;camere familiari;95;95;102;;;eur
+trivago;2020-05-25;RIMINI;Hotel Sanremo;3;10/08/2020;15/08/2020;camere familiari;104;104;104;109;109;eur
+trivago;2020-05-25;RIMINI;Hotel Lily;3;10/08/2020;15/08/2020;camere familiari;107;107;114;114;107;eur
+trivago;2020-05-25;RIMINI;Little;3;10/08/2020;15/08/2020;camere familiari;105;107;130;130;130;eur
+trivago;2020-05-25;RIMINI;Ambra;3;10/08/2020;15/08/2020;camere familiari;110;110;198;198;198;eur
+trivago;2020-05-25;RIMINI;Spiaggia Marconi;3;10/08/2020;15/08/2020;camere familiari;99;114;114;107;99;eur
+trivago;2020-05-25;RIMINI;Hotel Tiberius;3;10/08/2020;15/08/2020;camere familiari;116;116;116;116;116;eur
+trivago;2020-05-25;RIMINI;Nelson;3;10/08/2020;15/08/2020;camere familiari;119;119;131;147;133;eur
+trivago;2020-05-25;RIMINI;Residence Carioca;;10/08/2020;15/08/2020;camere familiari;123;123;137;;;eur
+trivago;2020-05-25;RIMINI;Reale;3;10/08/2020;15/08/2020;camere familiari;123;123;123;123;123;eur
+trivago;2020-05-25;RIMINI;Emanuela;2;10/08/2020;15/08/2020;camere familiari;124;124;191;;;eur
+trivago;2020-05-25;RIMINI;Ideale;2;10/08/2020;15/08/2020;camere familiari;126;126;126;126;126;eur
+trivago;2020-05-25;RIMINI;Casa Centro Storico Rimini;;10/08/2020;15/08/2020;camere familiari;127;127;;;;eur
+trivago;2020-05-25;RIMINI;Villa Lauda;1;10/08/2020;15/08/2020;camere familiari;127;127;157;157;143;eur
+trivago;2020-05-25;RIMINI;Mini;3;10/08/2020;15/08/2020;camere familiari;128;128;130;133;128;eur
+trivago;2020-05-25;RIMINI;Marilonda;3;10/08/2020;15/08/2020;camere familiari;128;128;141;176;176;eur
+trivago;2020-05-25;RIMINI;Holiday Beach;2;10/08/2020;15/08/2020;camere familiari;128;128;128;;;eur
+trivago;2020-05-25;RIMINI;Spring;3;10/08/2020;15/08/2020;camere familiari;129;129;135;135;135;eur
+trivago;2020-05-25;RIMINI;Pigalle;;10/08/2020;15/08/2020;camere familiari;129;129;142;142;142;eur
+trivago;2020-05-25;RIMINI;Baden Baden;2;10/08/2020;15/08/2020;camere familiari;129;129;141;142;129;eur
+trivago;2020-05-25;RIMINI;Hotel Principe Di Piemonte;3;10/08/2020;15/08/2020;camere familiari;129;131;133;146;142;eur
+trivago;2020-05-25;RIMINI;Hotel Arcangelo;3;10/08/2020;15/08/2020;camere familiari;113;131;113;147;123;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Grand Hotel Miramare;5;10/08/2020;15/08/2020;camere familiari;601;601;601;601;601;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Eight Hotel Paraggi;5;10/08/2020;15/08/2020;camere familiari;2.210;2.210;2.210;2.210;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;La Violara Three Room Apartment;;10/08/2020;15/08/2020;camere familiari;132;132;152;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Appartamento Per Vacanze San Siro;;10/08/2020;15/08/2020;camere familiari;140;140;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Noah Andrea;;10/08/2020;15/08/2020;camere familiari;140;140;140;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Appartamento Dogali;;10/08/2020;15/08/2020;camere familiari;144;144;144;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Casa Tina Santa Margherita Ligure;;10/08/2020;15/08/2020;camere familiari;146;146;146;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Casa Dogali;;10/08/2020;15/08/2020;camere familiari;151;151;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Tea Apartment;;10/08/2020;15/08/2020;camere familiari;157;157;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Le Camarelle;;10/08/2020;15/08/2020;camere familiari;179;179;179;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Romeo;;10/08/2020;15/08/2020;camere familiari;193;193;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Nicolina;;10/08/2020;15/08/2020;camere familiari;193;193;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Sunflower Apartment;;10/08/2020;15/08/2020;camere familiari;202;202;220;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Santa Margherita: Bord De Mer;;10/08/2020;15/08/2020;camere familiari;208;208;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Hotel La Vela;3;10/08/2020;15/08/2020;camere familiari;213;213;240;240;216;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Luna Sui Tetti;;10/08/2020;15/08/2020;camere familiari;218;218;218;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Terrace And Garden Santa Margherita - Ap2b;;10/08/2020;15/08/2020;camere familiari;234;234;234;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Appartamento S. Margherita L.;;10/08/2020;15/08/2020;camere familiari;250;250;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Cicalina;;10/08/2020;15/08/2020;camere familiari;296;296;;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;S. Margherita Family Apartment With Terrace;;10/08/2020;15/08/2020;camere familiari;296;297;307;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Il Cigno;;10/08/2020;15/08/2020;camere familiari;300;300;328;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Sandy Apartment;;10/08/2020;15/08/2020;camere familiari;314;314;344;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Jolanda;3;10/08/2020;15/08/2020;camere familiari;265;346;346;346;346;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Eden Pool & Restaurant;;10/08/2020;15/08/2020;camere familiari;369;369;405;;;eur
+trivago;2020-05-25;SANTA MARGHERITA LIGURE;Park Hotel Suisse;4;10/08/2020;15/08/2020;camere familiari;378;378;378;;;eur
+trivago;2020-05-25;TAORMINA;Hotel NH Collection Taormina;5;10/08/2020;15/08/2020;camere familiari;517;517;666;668;593;eur
+trivago;2020-05-25;TAORMINA;Hotel El Jebel;5;10/08/2020;15/08/2020;camere familiari;852;855;977;977;852;eur
+trivago;2020-05-25;TAORMINA;Grand Hotel San Pietro;5;10/08/2020;15/08/2020;camere familiari;719;880;719;719;719;eur
+trivago;2020-05-25;TAORMINA;The Ashbee Hotel;5;10/08/2020;15/08/2020;camere familiari;1.560;1.560;1.560;1.560;1.560;eur
+trivago;2020-05-25;TAORMINA;Hotel Metropole Taormina;5;10/08/2020;15/08/2020;camere familiari;1.805;1.805;1.805;1.805;1.805;eur
+trivago;2020-05-25;TAORMINA;VOI Grand Hotel Mazzaró Sea Palace;5;10/08/2020;15/08/2020;camere familiari;1.805;1.805;1.805;1.805;1.805;eur
+trivago;2020-05-25;TAORMINA;Belmond Grand Hotel Timeo;5;10/08/2020;15/08/2020;camere familiari;4.775;4.775;4.775;4.775;4.775;eur
+trivago;2020-05-25;TAORMINA;Villa La Spada;;10/08/2020;15/08/2020;camere familiari;99;99;99;;;eur
+trivago;2020-05-25;TAORMINA;Al Chiaro Di Luna;;10/08/2020;15/08/2020;camere familiari;104;104;104;104;104;eur
+trivago;2020-05-25;TAORMINA;Casa Aurora;;10/08/2020;15/08/2020;camere familiari;107;107;107;183;;eur
+trivago;2020-05-25;TAORMINA;Ikebana;;10/08/2020;15/08/2020;camere familiari;117;117;;;;eur
+trivago;2020-05-25;TAORMINA;Taohome;;10/08/2020;15/08/2020;camere familiari;119;119;119;;;eur
+trivago;2020-05-25;TAORMINA;Hotel Inn Taormina;3;10/08/2020;15/08/2020;camere familiari;124;124;131;137;124;eur
+trivago;2020-05-25;TAORMINA;Comeinsicily Al Mercato;;10/08/2020;15/08/2020;camere familiari;124;124;;;;eur
+trivago;2020-05-25;TAORMINA;Beach Apartments;;10/08/2020;15/08/2020;camere familiari;130;130;130;;;eur
+trivago;2020-05-25;TAORMINA;Mastrissa Country House;;10/08/2020;15/08/2020;camere familiari;136;136;136;;;eur
+trivago;2020-05-25;TAORMINA;Lory House Taormina;;10/08/2020;15/08/2020;camere familiari;140;140;140;;;eur
+trivago;2020-05-25;TAORMINA;Miriam Sea Front;;10/08/2020;15/08/2020;camere familiari;143;143;;;;eur
+trivago;2020-05-25;TAORMINA;Il Giardino Di Graziella;;10/08/2020;15/08/2020;camere familiari;144;144;;;;eur
+trivago;2020-05-25;TAORMINA;Giasone Apart;;10/08/2020;15/08/2020;camere familiari;140;144;140;;;eur
+trivago;2020-05-25;TAORMINA;The Lemon Tree;;10/08/2020;15/08/2020;camere familiari;145;145;;;;eur
+trivago;2020-05-25;TAORMINA;Il Gelsomino Taormina Center;;10/08/2020;15/08/2020;camere familiari;145;145;145;;;eur
+trivago;2020-05-25;TAORMINA;Santuzza Hotel;3;10/08/2020;15/08/2020;camere familiari;92;147;148;148;92;eur
+trivago;2020-05-25;TAORMINA;Taormina City Center;;10/08/2020;15/08/2020;camere familiari;147;147;147;;;eur
+trivago;2020-05-25;TAORMINA;La Villa Nina;;10/08/2020;15/08/2020;camere familiari;148;148;148;;;eur
+trivago;2020-05-25;ABETONE;Appartamento Val Di Luce Abetone;;10/08/2020;15/08/2020;camere familiari;81;81;;;;eur
+trivago;2020-05-25;ABETONE;Trilocale Sulle Piste Da Sci;;10/08/2020;15/08/2020;camere familiari;89;89;;;;eur
+trivago;2020-05-25;ABETONE;Residence Cristallo;;10/08/2020;15/08/2020;camere familiari;90;90;90;;;eur
+trivago;2020-05-25;ABETONE;La Casetta Allabetone Loft Mansarda;;10/08/2020;15/08/2020;camere familiari;107;107;107;;;eur
+trivago;2020-05-25;ABETONE;Appartamento Valentina;;10/08/2020;15/08/2020;camere familiari;116;116;116;;;eur
+trivago;2020-05-25;ABETONE;Appartamento Serena;;10/08/2020;15/08/2020;camere familiari;124;124;124;;;eur
+trivago;2020-05-25;ABETONE;Alla Curva Del Pagliai;;10/08/2020;15/08/2020;camere familiari;126;126;;;;eur
+trivago;2020-05-25;ABETONE;Bucaneve;;10/08/2020;15/08/2020;camere familiari;127;127;127;;;eur
+trivago;2020-05-25;ABETONE;Val Di Luce - Interno 19;;10/08/2020;15/08/2020;camere familiari;148;148;148;;;eur
+trivago;2020-05-25;ABETONE;Villa Micheletti;;10/08/2020;15/08/2020;camere familiari;150;150;150;;;eur
+trivago;2020-05-25;ABETONE;Val Di Luce Foemina Rb;;10/08/2020;15/08/2020;camere familiari;156;156;156;;;eur
+trivago;2020-05-25;ABETONE;Appartamenti Boscolungo;;10/08/2020;15/08/2020;camere familiari;162;162;162;;;eur
+trivago;2020-05-25;ABETONE;Locanda Farinati;;10/08/2020;15/08/2020;camere familiari;145;165;165;165;145;eur
+trivago;2020-05-25;ABETONE;Hotel Abetone e Piramidi;4;10/08/2020;15/08/2020;camere familiari;183;183;183;;;eur
+trivago;2020-05-25;BARDONECCHIA;Baite 10-11;;10/08/2020;15/08/2020;camere familiari;110;110;;;;eur
+trivago;2020-05-25;BARDONECCHIA;Hotel Jafferau;4;10/08/2020;15/08/2020;camere familiari;122;122;135;;;eur
+trivago;2020-05-25;BARDONECCHIA;Cianfuran;3;10/08/2020;15/08/2020;camere familiari;133;133;;;;eur
+trivago;2020-05-25;BARDONECCHIA;Chalet Della Guida;;10/08/2020;15/08/2020;camere familiari;134;134;144;144;134;eur
+trivago;2020-05-25;BARDONECCHIA;Bianca;1;10/08/2020;15/08/2020;camere familiari;134;134;134;134;134;eur
+trivago;2020-05-25;BARDONECCHIA;Bardonecchia Sci E Relax;;10/08/2020;15/08/2020;camere familiari;234;234;234;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Grand Hotel Savoia;5;10/08/2020;15/08/2020;camere familiari;900;900;900;900;892;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Miramonti Majestic Grand;5;10/08/2020;15/08/2020;camere familiari;919;919;919;1.126;919;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Rosapetra;5;10/08/2020;15/08/2020;camere familiari;1.433;1.904;1.904;1.904;1.433;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Villa Sogno;;10/08/2020;15/08/2020;camere familiari;96;96;106;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Hotel Alaska;4;10/08/2020;15/08/2020;camere familiari;235;235;347;347;235;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Hotel Serena Cortina;3;10/08/2020;15/08/2020;camere familiari;278;278;278;355;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Hotel Royal;3;10/08/2020;15/08/2020;camere familiari;372;372;372;462;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Boutique Villa Blu Cortina;4;10/08/2020;15/08/2020;camere familiari;404;404;425;425;404;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Casa Marmorata;;10/08/2020;15/08/2020;camere familiari;408;408;;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Savoia Palace;4;10/08/2020;15/08/2020;camere familiari;440;440;507;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Overlooking The Dolomite;;10/08/2020;15/08/2020;camere familiari;453;453;;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Meublé Piccolo Pocol;;10/08/2020;15/08/2020;camere familiari;492;492;526;526;492;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Attico Castello;;10/08/2020;15/08/2020;camere familiari;508;508;;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Hotel Mirage;4;10/08/2020;15/08/2020;camere familiari;513;513;513;513;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Hotel Capannina;3;10/08/2020;15/08/2020;camere familiari;549;552;575;593;549;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Lajadira Hotel & Spa;4;10/08/2020;15/08/2020;camere familiari;582;582;902;902;582;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Parc Victoria;4;10/08/2020;15/08/2020;camere familiari;674;674;674;674;674;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Casa Majon;;10/08/2020;15/08/2020;camere familiari;708;708;;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Partel Loudge;;10/08/2020;15/08/2020;camere familiari;708;708;;;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Hotel Faloria Mountain Spa Resort;4;10/08/2020;15/08/2020;camere familiari;711;711;781;788;711;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Hotel Cortina;4;10/08/2020;15/08/2020;camere familiari;778;778;778;778;;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Aquila;3;10/08/2020;15/08/2020;camere familiari;792;792;857;857;792;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Hotel Bellevue Suites & Spa;4;10/08/2020;15/08/2020;camere familiari;716;803;716;716;716;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Sport Hotel Cortina;3;10/08/2020;15/08/2020;camere familiari;852;852;852;852;852;eur
+trivago;2020-05-25;CORTINA D?AMPEZZO;Ambra;4;10/08/2020;15/08/2020;camere familiari;807;854;807;;;eur
+trivago;2020-05-25;CORVARA IN BADIA;Hotel Sassongher;5;10/08/2020;15/08/2020;camere familiari;634;634;634;900;871;eur
+trivago;2020-05-25;CORVARA IN BADIA;Residence Salvan;3;10/08/2020;15/08/2020;camere familiari;206;206;;;;eur
+trivago;2020-05-25;PESCASSEROLI;Cocoon;3;10/08/2020;15/08/2020;camere familiari;118;118;243;243;118;eur
+trivago;2020-05-25;PESCASSEROLI;Orso Bianco;3;10/08/2020;15/08/2020;camere familiari;136;136;143;157;136;eur
+trivago;2020-05-25;PESCASSEROLI;Villa dei Pini;;10/08/2020;15/08/2020;camere familiari;169;169;169;169;169;eur
+trivago;2020-05-25;PESCASSEROLI;Paradiso;3;10/08/2020;15/08/2020;camere familiari;174;174;174;;;eur
+trivago;2020-05-25;PESCASSEROLI;Alle Vecchie Arcate;3;10/08/2020;15/08/2020;camere familiari;205;205;205;205;205;eur
+trivago;2020-05-25;PESCASSEROLI;Hotel Pinguino;3;10/08/2020;15/08/2020;camere familiari;248;248;248;269;;eur
+trivago;2020-05-25;PESCASSEROLI;Residence Club Primula;4;10/08/2020;15/08/2020;camere familiari;266;266;266;266;266;eur
+trivago;2020-05-25;PESCASSEROLI;Grand del Parco;3;10/08/2020;15/08/2020;camere familiari;280;281;296;297;280;eur
+trivago;2020-05-25;ABANO TERME;Hotel President Terme;5;10/08/2020;15/08/2020;camere familiari;339;389;339;339;339;eur
+trivago;2020-05-25;ABANO TERME;Agriturismo Monteortone;;10/08/2020;15/08/2020;camere familiari;96;96;96;96;96;eur
+trivago;2020-05-25;ABANO TERME;La Fonte Appartamenti;;10/08/2020;15/08/2020;camere familiari;101;101;;;;eur
+trivago;2020-05-25;ABANO TERME;Casa Nespolo Abano Terme;;10/08/2020;15/08/2020;camere familiari;114;114;;;;eur
+trivago;2020-05-25;ABANO TERME;Agriturismo Corte Dacqua;;10/08/2020;15/08/2020;camere familiari;137;170;170;;;eur
+trivago;2020-05-25;ABANO TERME;Savoia Thermæ & Spa;4;10/08/2020;15/08/2020;camere familiari;283;283;314;314;283;eur
+trivago;2020-05-25;ACIREALE;Minicurcu;;10/08/2020;15/08/2020;camere familiari;71;74;71;;;eur
+trivago;2020-05-25;ACIREALE;sciddicu rooms;;10/08/2020;15/08/2020;camere familiari;74;74;74;;;eur
+trivago;2020-05-25;ACIREALE;House Bellavista;;10/08/2020;15/08/2020;camere familiari;75;75;75;;;eur
+trivago;2020-05-25;ACIREALE;La Corte Di Aci (casa Aci);;10/08/2020;15/08/2020;camere familiari;76;76;76;;;eur
+trivago;2020-05-25;ACIREALE;Casa Sicilia Acireale;;10/08/2020;15/08/2020;camere familiari;76;76;76;;;eur
+trivago;2020-05-25;ACIREALE;Al Borgo Marinaro;;10/08/2020;15/08/2020;camere familiari;78;78;;;;eur
+trivago;2020-05-25;ACIREALE;Casa delle Aci;;10/08/2020;15/08/2020;camere familiari;76;80;76;;;eur
+trivago;2020-05-25;ACIREALE;Del Sol House;;10/08/2020;15/08/2020;camere familiari;80;80;;;;eur
+trivago;2020-05-25;ACIREALE;Villa Corallo Dell'Etna;;10/08/2020;15/08/2020;camere familiari;86;86;86;86;86;eur
+trivago;2020-05-25;ACIREALE;Casa Vacanze Dante;;10/08/2020;15/08/2020;camere familiari;86;86;86;;;eur
+trivago;2020-05-25;ACIREALE;Baia Pozzillo;;10/08/2020;15/08/2020;camere familiari;86;86;86;;;eur
+trivago;2020-05-25;ACIREALE;Casaluna Santa Tecla Mare;;10/08/2020;15/08/2020;camere familiari;86;86;86;;;eur
+trivago;2020-05-25;ACIREALE;Appartampeppe;;10/08/2020;15/08/2020;camere familiari;88;88;88;;;eur
+trivago;2020-05-25;ACIREALE;Chalet In The Woods Nestled In The Oak Forest In Monterosso Etneo.;;10/08/2020;15/08/2020;camere familiari;89;89;94;;;eur
+trivago;2020-05-25;ACIREALE;La Maison Blanche;;10/08/2020;15/08/2020;camere familiari;93;93;93;;;eur
+trivago;2020-05-25;ACIREALE;Il Rifugio Di Maria;;10/08/2020;15/08/2020;camere familiari;93;93;93;;;eur
+trivago;2020-05-25;ACIREALE;The House Of Carlotta And Giorgia;;10/08/2020;15/08/2020;camere familiari;93;93;;;;eur
+trivago;2020-05-25;ACIREALE;San Sebastiano Holidays;;10/08/2020;15/08/2020;camere familiari;94;94;123;123;94;eur
+trivago;2020-05-25;ACIREALE;La Via Del Mare - Acireale Centro Storico;;10/08/2020;15/08/2020;camere familiari;95;95;95;;;eur
+trivago;2020-05-25;ACIREALE;Maranino;;10/08/2020;15/08/2020;camere familiari;96;96;96;;;eur
+trivago;2020-05-25;ACIREALE;Apartment Via Torrisi;;10/08/2020;15/08/2020;camere familiari;96;96;;;;eur
+trivago;2020-05-25;ACIREALE;Raciti Palace;;10/08/2020;15/08/2020;camere familiari;106;106;106;;;eur
+trivago;2020-05-25;BORMIO;Voglia Di Veglia;;10/08/2020;15/08/2020;camere familiari;140;140;140;;;eur
+trivago;2020-05-25;BORMIO;Italianway - San Giovanni 13/a;;10/08/2020;15/08/2020;camere familiari;198;198;244;;;eur
+trivago;2020-05-25;BORMIO;Residenza Sertorelli;;10/08/2020;15/08/2020;camere familiari;208;208;;;;eur
+trivago;2020-05-25;BORMIO;Villa Rina;3;10/08/2020;15/08/2020;camere familiari;210;210;246;246;246;eur
+trivago;2020-05-25;BORMIO;Rifugio Garibaldi;;10/08/2020;15/08/2020;camere familiari;222;222;222;;;eur
+trivago;2020-05-25;BORMIO;Baita Clementi;4;10/08/2020;15/08/2020;camere familiari;244;244;244;244;244;eur
+trivago;2020-05-25;BORMIO;Ostello Alpino;;10/08/2020;15/08/2020;camere familiari;261;262;261;261;261;eur
+trivago;2020-05-25;BORMIO;Baita Fanti Ski & Bike;3;10/08/2020;15/08/2020;camere familiari;275;275;275;;;eur
+trivago;2020-05-25;BORMIO;Residence Cristallo;;10/08/2020;15/08/2020;camere familiari;281;283;281;281;281;eur
+trivago;2020-05-25;BORMIO;Miramonti Park;4;10/08/2020;15/08/2020;camere familiari;294;296;294;294;294;eur
+trivago;2020-05-25;BORMIO;Olimpia;;10/08/2020;15/08/2020;camere familiari;305;305;320;320;305;eur
+trivago;2020-05-25;BORMIO;Hotel Sant Anton;4;10/08/2020;15/08/2020;camere familiari;294;314;294;294;294;eur
+trivago;2020-05-25;BORMIO;Vallecetta;3;10/08/2020;15/08/2020;camere familiari;319;320;319;;;eur
+trivago;2020-05-25;BORMIO;Hotel Funivia;3;10/08/2020;15/08/2020;camere familiari;333;364;333;406;;eur
+trivago;2020-05-25;BORMIO;Agriturismo Rini;;10/08/2020;15/08/2020;camere familiari;404;465;404;;;eur
+trivago;2020-05-25;BORMIO;Best House;;10/08/2020;15/08/2020;camere familiari;184;466;;;;eur
+trivago;2020-05-25;BORMIO;Pista Stelvio Loft Lumiere;;10/08/2020;15/08/2020;camere familiari;466;466;466;;;eur
+trivago;2020-05-25;BORMIO;Hotel Palace;4;10/08/2020;15/08/2020;camere familiari;478;478;478;587;;eur
+trivago;2020-05-25;BORMIO;Italianway - San Pietro 8;;10/08/2020;15/08/2020;camere familiari;480;480;593;;;eur
+trivago;2020-05-25;MONTECATINI ;Grand Hotel & La Pace;5;10/08/2020;15/08/2020;camere familiari;327;327;327;;;eur
+trivago;2020-05-25;MONTECATINI ;Hotel Montecatini Palace;5;10/08/2020;15/08/2020;camere familiari;340;375;340;340;340;eur
+trivago;2020-05-25;MONTECATINI ;Grand Hotel Bellavista Palace;5;10/08/2020;15/08/2020;camere familiari;322;376;322;322;322;eur
+trivago;2020-05-25;MONTECATINI ;Holiday Matteotti;;10/08/2020;15/08/2020;camere familiari;44;44;44;54;;eur
+trivago;2020-05-25;MONTECATINI ;Hotel Florida;3;10/08/2020;15/08/2020;camere familiari;48;48;48;48;48;eur
+trivago;2020-05-25;MONTECATINI ;Montecatini Suites;;10/08/2020;15/08/2020;camere familiari;53;53;56;;;eur
+trivago;2020-05-25;MONTECATINI ;Hotel Resort Montecatini;3;10/08/2020;15/08/2020;camere familiari;54;54;54;;;eur
+trivago;2020-05-25;MONTECATINI ;Casa Lella;;10/08/2020;15/08/2020;camere familiari;60;60;60;;;eur
+trivago;2020-05-25;MONTECATINI ;Dalla Bibi;;10/08/2020;15/08/2020;camere familiari;65;65;65;;;eur
+trivago;2020-05-25;MONTECATINI ;Hotel Tonfoni;3;10/08/2020;15/08/2020;camere familiari;55;68;74;74;68;eur
+trivago;2020-05-25;MONTECATINI ;Hotel Conchiglia;2;10/08/2020;15/08/2020;camere familiari;68;68;68;73;73;eur
+trivago;2020-05-25;MONTECATINI ;Giovanna;3;10/08/2020;15/08/2020;camere familiari;69;69;69;69;69;eur
+trivago;2020-05-25;MONTECATINI ;Prati;3;10/08/2020;15/08/2020;camere familiari;69;69;69;69;69;eur
+trivago;2020-05-25;MONTECATINI ;Marina;3;10/08/2020;15/08/2020;camere familiari;74;74;74;;;eur
+trivago;2020-05-25;MONTECATINI ;Delizia Genovese;3;10/08/2020;15/08/2020;camere familiari;74;74;74;74;74;eur
+trivago;2020-05-25;MONTECATINI ;Il Gallo - Apartment With Panoramic Terrace;;10/08/2020;15/08/2020;camere familiari;75;75;75;;;eur
+trivago;2020-05-25;MONTECATINI ;Appartamento A Villa Tosca;;10/08/2020;15/08/2020;camere familiari;75;75;75;;;eur
+trivago;2020-05-25;MONTECATINI ;B&B Casa Fedora;;10/08/2020;15/08/2020;camere familiari;76;76;76;76;76;eur
+trivago;2020-05-25;MONTECATINI ;Hotel Montebello;3;10/08/2020;15/08/2020;camere familiari;77;77;89;89;77;eur
+trivago;2020-05-25;MONTECATINI ;Salus;3;10/08/2020;15/08/2020;camere familiari;51;77;51;65;65;eur
+trivago;2020-05-25;MONTECATINI ;Venezia;3;10/08/2020;15/08/2020;camere familiari;78;78;78;78;78;eur
+trivago;2020-05-25;MONTECATINI ;La Pia;3;10/08/2020;15/08/2020;camere familiari;78;78;78;78;78;eur
+trivago;2020-05-25;MONTECATINI ;Casa Jessica;;10/08/2020;15/08/2020;camere familiari;78;78;110;;;eur
+trivago;2020-05-25;MONTECATINI ;Ambrogini;2;10/08/2020;15/08/2020;camere familiari;73;78;73;73;73;eur
+trivago;2020-05-25;MONTECATINI ;Giglio;3;10/08/2020;15/08/2020;camere familiari;79;79;84;84;79;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Residence Diamante;;10/08/2020;15/08/2020;camere familiari;79;81;79;;;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Ricordo Du Parc;3;10/08/2020;15/08/2020;camere familiari;85;85;91;112;106;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Albergo Esperia;;10/08/2020;15/08/2020;camere familiari;86;86;86;101;101;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Elite;3;10/08/2020;15/08/2020;camere familiari;95;95;95;95;95;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Bruna;;10/08/2020;15/08/2020;camere familiari;97;97;97;;;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Boomerang Tabiano;3;10/08/2020;15/08/2020;camere familiari;105;105;115;115;115;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Hotel Garden Ristorante;3;10/08/2020;15/08/2020;camere familiari;108;112;119;119;115;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Hotel Rossini;3;10/08/2020;15/08/2020;camere familiari;114;114;114;;;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Querce;3;10/08/2020;15/08/2020;camere familiari;118;118;118;118;118;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Hotel Ducale;3;10/08/2020;15/08/2020;camere familiari;129;141;129;129;129;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Hotel Pandos;4;10/08/2020;15/08/2020;camere familiari;153;153;170;170;153;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Plaza;3;10/08/2020;15/08/2020;camere familiari;154;154;154;154;154;eur
+trivago;2020-05-25;SALSOMAGGIORE ;Azzurra;;10/08/2020;15/08/2020;camere familiari;204;204;204;;;eur

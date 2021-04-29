@@ -1,0 +1,14 @@
+merchant;scraping_date;city_name;hotel_name;star;Starting_period;Ending_period;Camera;Price 1;Price 2;Price 3;Price 4;Price 5;currency
+trivago;2020-05-22;SIRMIONE;Antico Rovere Sirmione Cir 017179-cni-00102;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-22;SIRMIONE;Residence Punta Gro;;13/07/2020;19/07/2020;camere familiari;58;58;64;;;eur
+trivago;2020-05-22;SIRMIONE;Hotel Gardenia;3;13/07/2020;19/07/2020;camere familiari;87;87;122;108;99;eur
+trivago;2020-05-22;SIRMIONE;Appartamenti Altea;;13/07/2020;19/07/2020;camere familiari;88;88;88;;;eur
+trivago;2020-05-22;SIRMIONE;Camping Villaggio Tiglio;;13/07/2020;19/07/2020;camere familiari;60;92;64;;;eur
+trivago;2020-05-22;SIRMIONE;Il Grappolo Bilocale;;13/07/2020;19/07/2020;camere familiari;92;92;;;;eur
+trivago;2020-05-22;SIRMIONE;Al Faro-luxury Holiday Home;;13/07/2020;19/07/2020;camere familiari;96;96;96;;;eur
+trivago;2020-05-22;SIRMIONE;Al Faro-luxury Holiday Home;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-22;SIRMIONE;Residence Magnolie;;13/07/2020;19/07/2020;camere familiari;103;103;103;;;eur
+trivago;2020-05-22;SIRMIONE;Adriana Sirmione;;13/07/2020;19/07/2020;camere familiari;104;104;;;;eur
+trivago;2020-05-22;SIRMIONE;Suite Mavino Appartamenti;;13/07/2020;19/07/2020;camere familiari;104;104;;;;eur
+trivago;2020-05-22;SIRMIONE;Villa Aurora;;13/07/2020;19/07/2020;camere familiari;106;106;106;;;eur
+trivago;2020-05-22;SIRMIONE;Appartamento Indipendente In Villa Con P.auto .;;13/07/2020;19/07/2020;camere familiari;;;;;;eur

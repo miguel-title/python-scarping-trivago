@@ -1,0 +1,12 @@
+merchant;scraping_date;city_name;hotel_name;star;Starting_period;Ending_period;Camera;Price 1;Price 2;Price 3;Price 4;Price 5;currency
+trivago;2020-04-10;NAPOLI;Hotel Zara;2;13/07/2020;19/07/2020;Camera doppia;39;39;39;39;39;eur
+trivago;2020-04-10;NAPOLI;Vittorio Veneto;2;13/07/2020;19/07/2020;Camera doppia;40;40;44;44;;eur
+trivago;2020-04-10;NAPOLI;Casanova;2;13/07/2020;19/07/2020;Camera doppia;46;49;49;50;46;eur
+trivago;2020-04-10;NAPOLI;Hotel Fiorentina;2;13/07/2020;19/07/2020;Camera doppia;49;49;59;59;49;eur
+trivago;2020-04-10;NAPOLI;Hotel Primavera;2;13/07/2020;19/07/2020;Camera doppia;49;49;54;;;eur
+trivago;2020-04-10;NAPOLI;Hotel Pignatelli;2;13/07/2020;19/07/2020;Camera doppia;58;58;;;;eur
+trivago;2020-04-10;NAPOLI;Kennedy;2;13/07/2020;19/07/2020;Camera doppia;62;62;62;62;62;eur
+trivago;2020-04-10;NAPOLI;Hotel Alloggio Del Conte;2;13/07/2020;19/07/2020;Camera doppia;54;67;67;69;54;eur
+trivago;2020-04-10;NAPOLI;Le Orchidee;2;13/07/2020;19/07/2020;Camera doppia;46;72;84;98;113;eur
+trivago;2020-04-10;NAPOLI;Duomo;2;13/07/2020;19/07/2020;Camera doppia;78;78;78;90;90;eur
+trivago;2020-04-10;NAPOLI;Hôtel Bella Capri;2;13/07/2020;19/07/2020;Camera doppia;68;79;68;79;79;eur

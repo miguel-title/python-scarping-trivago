@@ -1,0 +1,91 @@
+merchant;scraping_date;city_name;hotel_name;star;Starting_period;Ending_period;Camera;Price 1;Price 2;Price 3;Price 4;Price 5;currency
+trivago;2020-05-24;SIRMIONE;Antico Rovere Sirmione Cir 017179-cni-00102;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-24;SIRMIONE;2-room Apartment Centro Pederobba;;13/07/2020;19/07/2020;camere familiari;59;59;59;;;eur
+trivago;2020-05-24;SIRMIONE;Residence Punta Gro;;13/07/2020;19/07/2020;camere familiari;62;62;55;;;eur
+trivago;2020-05-24;SIRMIONE;Apartment For Rent Sirmione;;13/07/2020;19/07/2020;camere familiari;62;62;62;;;eur
+trivago;2020-05-24;SIRMIONE;Hotel Gardenia;3;13/07/2020;19/07/2020;camere familiari;83;83;101;106;116;eur
+trivago;2020-05-24;SIRMIONE;Apartment Pasquino;;13/07/2020;19/07/2020;camere familiari;83;83;;;;eur
+trivago;2020-05-24;SIRMIONE;Apartment Sirmione Lake;;13/07/2020;19/07/2020;camere familiari;84;84;;;;eur
+trivago;2020-05-24;SIRMIONE;Appartamenti Altea;;13/07/2020;19/07/2020;camere familiari;88;88;88;;;eur
+trivago;2020-05-24;SIRMIONE;Appartamento Da Matthias, Colombare Di Sirmione;;13/07/2020;19/07/2020;camere familiari;89;89;89;;;eur
+trivago;2020-05-24;SIRMIONE;Camping Villaggio Tiglio;;13/07/2020;19/07/2020;camere familiari;60;92;64;;;eur
+trivago;2020-05-24;SIRMIONE;Il Grappolo Bilocale;;13/07/2020;19/07/2020;camere familiari;92;92;;;;eur
+trivago;2020-05-24;SIRMIONE;Al Faro-luxury Holiday Home;;13/07/2020;19/07/2020;camere familiari;96;96;96;;;eur
+trivago;2020-05-24;SIRMIONE;Near The Centre Of The Old Town And The Lake 2-room Apartment Il Grappolo;;13/07/2020;19/07/2020;camere familiari;99;99;;;;eur
+trivago;2020-05-24;SIRMIONE;Al Faro-luxury Holiday Home;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-24;SIRMIONE;Apartment The Palace;;13/07/2020;19/07/2020;camere familiari;102;102;102;;;eur
+trivago;2020-05-24;SIRMIONE;Residence Magnolie;;13/07/2020;19/07/2020;camere familiari;103;103;103;;;eur
+trivago;2020-05-24;SIRMIONE;Adriana Sirmione;;13/07/2020;19/07/2020;camere familiari;104;104;;;;eur
+trivago;2020-05-24;SIRMIONE;Suite Mavino Appartamenti;;13/07/2020;19/07/2020;camere familiari;104;104;;;;eur
+trivago;2020-05-24;SIRMIONE;Grosse Sonnige Dachterrasse In SeenÄhe Mit Blick In Die Gardaseeberge!;;13/07/2020;19/07/2020;camere familiari;105;105;105;;;eur
+trivago;2020-05-24;SIRMIONE;Villa Aurora;;13/07/2020;19/07/2020;camere familiari;106;106;106;;;eur
+trivago;2020-05-24;SIRMIONE;Sirmione 'villa Lucrezia' appartamento vacanze con piscina vicino Terme Virgilio;;13/07/2020;19/07/2020;camere familiari;108;108;108;;;eur
+trivago;2020-05-24;SIRMIONE;Camere America B&b;;13/07/2020;19/07/2020;camere familiari;109;109;109;109;109;eur
+trivago;2020-05-24;SIRMIONE;America;;13/07/2020;19/07/2020;camere familiari;110;110;110;110;110;eur
+trivago;2020-05-24;SIRMIONE;Poggio Al Lago;;13/07/2020;19/07/2020;camere familiari;111;111;;;;eur
+trivago;2020-05-24;SIRMIONE;Apartment Garden Ville, Two-room Apartment In Residence With Swimming Pool And Garden;;13/07/2020;19/07/2020;camere familiari;112;112;;;;eur
+trivago;2020-05-24;STRESA;Hotel Villa & Palazzo Aminta;5;13/07/2020;19/07/2020;camere familiari;802;802;935;935;802;eur
+trivago;2020-05-24;STRESA;Villa Perondi In Stresa Whg. Nr. 5;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-24;STRESA;Casa Della Torre;;13/07/2020;19/07/2020;camere familiari;78;78;107;;;eur
+trivago;2020-05-24;STRESA;Appartamento Villagio - Terrazzo;;13/07/2020;19/07/2020;camere familiari;81;81;81;;;eur
+trivago;2020-05-24;STRESA;Casa Sole;;13/07/2020;19/07/2020;camere familiari;83;83;83;;;eur
+trivago;2020-05-24;STRESA;Miralago;;13/07/2020;19/07/2020;camere familiari;87;87;102;;;eur
+trivago;2020-05-24;STRESA;Da Cesare;2;13/07/2020;19/07/2020;camere familiari;93;93;108;108;93;eur
+trivago;2020-05-24;STRESA;Casa Lawrence;;13/07/2020;19/07/2020;camere familiari;93;93;93;;;eur
+trivago;2020-05-24;STRESA;Casa Indipendente Vista Lago;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-24;STRESA;Langelo;;13/07/2020;19/07/2020;camere familiari;95;95;95;;;eur
+trivago;2020-05-24;STRESA;Bilocale Dante;;13/07/2020;19/07/2020;camere familiari;97;97;97;;;eur
+trivago;2020-05-24;STRESA;Casa Elisa;;13/07/2020;19/07/2020;camere familiari;98;98;98;;;eur
+trivago;2020-05-24;STRESA;Le Camere Della Vecchia Osteria;;13/07/2020;19/07/2020;camere familiari;99;99;99;;;eur
+trivago;2020-05-24;STRESA;Casa Ines;;13/07/2020;19/07/2020;camere familiari;99;99;99;;;eur
+trivago;2020-05-24;STRESA;Casa Erica;;13/07/2020;19/07/2020;camere familiari;99;99;99;;;eur
+trivago;2020-05-24;STRESA;Garibaldi;;13/07/2020;19/07/2020;camere familiari;100;100;100;;;eur
+trivago;2020-05-24;STRESA;Al 13 Rosso;;13/07/2020;19/07/2020;camere familiari;100;100;;;;eur
+trivago;2020-05-24;STRESA;Al 13 Blu;;13/07/2020;19/07/2020;camere familiari;100;100;100;;;eur
+trivago;2020-05-24;STRESA;Dama Del Lago;;13/07/2020;19/07/2020;camere familiari;102;102;;;;eur
+trivago;2020-05-24;STRESA;Casa Gènia;;13/07/2020;19/07/2020;camere familiari;102;102;;;;eur
+trivago;2020-05-24;STRESA;Cavaliere;;13/07/2020;19/07/2020;camere familiari;105;105;;;;eur
+trivago;2020-05-24;STRESA;Beautiful New Residence With Large Sunny Terraces And Breathtaking Views & Wi-fi;;13/07/2020;19/07/2020;camere familiari;106;106;;;;eur
+trivago;2020-05-24;STRESA;San Martino;;13/07/2020;19/07/2020;camere familiari;106;106;;;;eur
+trivago;2020-05-24;STRESA;Appartamento Cigno;;13/07/2020;19/07/2020;camere familiari;106;106;;;;eur
+trivago;2020-05-24;STRESA;Casa Clara;;13/07/2020;19/07/2020;camere familiari;107;107;;;;eur
+trivago;2020-05-24;AMALFI;Residence Of Grandfather Emilio;;13/07/2020;19/07/2020;camere familiari;79;79;;;;eur
+trivago;2020-05-24;AMALFI;Casa Con Ampio Giardino Nel Centro Storico Di Amalfi;;13/07/2020;19/07/2020;camere familiari;92;92;;;;eur
+trivago;2020-05-24;AMALFI;Castriota-scanderberg Apartment;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-24;AMALFI;La Casina Del Piennolo;;13/07/2020;19/07/2020;camere familiari;107;107;;;;eur
+trivago;2020-05-24;AMALFI;Sul Poggio Antico;;13/07/2020;19/07/2020;camere familiari;121;121;121;;;eur
+trivago;2020-05-24;AMALFI;Hotel Amalfi;3;13/07/2020;19/07/2020;camere familiari;130;130;130;236;218;eur
+trivago;2020-05-24;AMALFI;Asia- Casa Vacanze Vista Mare E Solarium- Amalfi-costiera Amalfitana;;13/07/2020;19/07/2020;camere familiari;130;130;130;;;eur
+trivago;2020-05-24;AMALFI;Casaamore19-amalfi Historic Center;;13/07/2020;19/07/2020;camere familiari;136;136;136;;;eur
+trivago;2020-05-24;AMALFI;Casa Maria;;13/07/2020;19/07/2020;camere familiari;138;138;;;;eur
+trivago;2020-05-24;AMALFI;Caleidoscopio Amalfi;;13/07/2020;19/07/2020;camere familiari;142;142;;;;eur
+trivago;2020-05-24;AMALFI;Villa Nina;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-24;AMALFI;Silvy House With Stunning View;;13/07/2020;19/07/2020;camere familiari;145;145;145;;;eur
+trivago;2020-05-24;AMALFI;Grazioso Appartamento Vista Mare;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-24;AMALFI;Mini Apartment In Amalfi;;13/07/2020;19/07/2020;camere familiari;147;147;147;;;eur
+trivago;2020-05-24;AMALFI;Appartamento Privilege;;13/07/2020;19/07/2020;camere familiari;148;148;;;;eur
+trivago;2020-05-24;AMALFI;Holiday In Amalfi;;13/07/2020;19/07/2020;camere familiari;149;149;165;;;eur
+trivago;2020-05-24;AMALFI;Angela House;;13/07/2020;19/07/2020;camere familiari;151;151;198;;;eur
+trivago;2020-05-24;AMALFI;Amalfi Hills Country Hotel;;13/07/2020;19/07/2020;camere familiari;152;152;152;151;;eur
+trivago;2020-05-24;AMALFI;Tenuta Cavaliere Apt Vista Relax, Verde E Panorama Mozzafiato;;13/07/2020;19/07/2020;camere familiari;152;152;;;;eur
+trivago;2020-05-24;AMALFI;Casa Martina;;13/07/2020;19/07/2020;camere familiari;153;153;153;;;eur
+trivago;2020-05-24;AMALFI;Il Paridà;;13/07/2020;19/07/2020;camere familiari;156;156;156;156;156;eur
+trivago;2020-05-24;AMALFI;Lemon Garden;;13/07/2020;19/07/2020;camere familiari;160;160;160;;;eur
+trivago;2020-05-24;AMALFI;La Cascata;;13/07/2020;19/07/2020;camere familiari;161;161;161;;;eur
+trivago;2020-05-24;AMALFI;Amalfi Centro La Casa Del Saraceno;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-24;AMALFI;Casa Sul Porto;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-24;JESOLO;Taormina;;13/07/2020;19/07/2020;camere familiari;98;98;102;102;98;eur
+trivago;2020-05-24;JESOLO;Hotel Picobello;3;13/07/2020;19/07/2020;camere familiari;109;109;109;;;eur
+trivago;2020-05-24;JESOLO;Bungalow Marina Di Cortellazzo;;13/07/2020;19/07/2020;camere familiari;115;115;;;;eur
+trivago;2020-05-24;JESOLO;Bed And Breakfast Ca Dolce Jesolo;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-24;JESOLO;Villa Roma;;13/07/2020;19/07/2020;camere familiari;124;124;124;;;eur
+trivago;2020-05-24;JESOLO;Camera Quadrupla In Concorso Agricolo;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-24;JESOLO;Rosmary;2;13/07/2020;19/07/2020;camere familiari;147;147;;;;eur
+trivago;2020-05-24;JESOLO;Antiche Mura;;13/07/2020;19/07/2020;camere familiari;150;150;150;150;150;eur
+trivago;2020-05-24;JESOLO;Residence Moresco;;13/07/2020;19/07/2020;camere familiari;150;150;150;;;eur
+trivago;2020-05-24;JESOLO;Petite Maison;;13/07/2020;19/07/2020;camere familiari;153;153;153;;;eur
+trivago;2020-05-24;JESOLO;Villa Cristina N.1;;13/07/2020;19/07/2020;camere familiari;153;153;178;;;eur
+trivago;2020-05-24;JESOLO;La Dimora Di Lara Jesolo Piazza Mazzini;;13/07/2020;19/07/2020;camere familiari;155;155;;;;eur
+trivago;2020-05-24;JESOLO;Numero Uno;;13/07/2020;19/07/2020;camere familiari;;;;;;eur
+trivago;2020-05-24;JESOLO;Villa Cristina N. 10;;13/07/2020;19/07/2020;camere familiari;163;163;168;;;eur
+trivago;2020-05-24;JESOLO;Jesolo Venice 2 Bedrooms Apartment;;13/07/2020;19/07/2020;camere familiari;168;168;168;;;eur

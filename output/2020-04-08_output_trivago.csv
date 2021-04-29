@@ -1,0 +1,19 @@
+merchant;scraping_date;city_name;hotel_name;star;Starting_period;Ending_period;Camera;Price 1;Price 2;Price 3;Price 4;Price 5;currency
+trivago;2020-04-08;BELLAGIO;Centrale;3;17/04/2020;19/04/2020;camera doppia;150;150;150;150;150;eur
+trivago;2020-04-08;BELLAGIO;Fioroni;3;17/04/2020;19/04/2020;camera doppia;90;90;90;90;90;eur
+trivago;2020-04-08;BELLAGIO;Silvio;3;17/04/2020;19/04/2020;camera doppia;124;126;124;150;150;eur
+trivago;2020-04-08;BELLAGIO;Suisse;3;17/04/2020;19/04/2020;camera doppia;135;135;135;135;135;eur
+trivago;2020-04-08;BELLAGIO;Hotel Mirabeau;3;17/04/2020;19/04/2020;camera doppia;75;75;75;75;;eur
+trivago;2020-04-08;BELLAGIO;Casa Lucina........the Terrace On The Lake !!!;;17/04/2020;19/04/2020;camera doppia;;;;;;eur
+trivago;2020-04-08;BELLAGIO;Bellagio Lakeside Apartment;;17/04/2020;19/04/2020;camera doppia;;;;;;eur
+trivago;2020-04-08;BELLAGIO;Appartamento Monolocale Con Vista Lago Casavalery;;17/04/2020;19/04/2020;camera doppia;;;;;;eur
+trivago;2020-04-08;BELLAGIO;Bellagio Casa Marta Last Minute;;17/04/2020;19/04/2020;camera doppia;;;;;;eur
+trivago;2020-04-08;BELLAGIO;Adele Apartment Bellagio - Lake Como;;17/04/2020;19/04/2020;camera doppia;;;;;;eur
+trivago;2020-04-08;BELLAGIO;Antico Uliveto Bellagio Apartment;;17/04/2020;19/04/2020;camera doppia;;;;;;eur
+trivago;2020-04-08;BELLAGIO;Charming Bellagio Boutique;;17/04/2020;19/04/2020;camera doppia;105;105;105;125;125;eur
+trivago;2020-04-08;BELLAGIO;Bellagio Lakeside apartment;;17/04/2020;19/04/2020;camera doppia;397;397;;;;eur
+trivago;2020-04-08;BELLAGIO;Appartamento - Bellagio Casa Con Giardino;;17/04/2020;19/04/2020;camera doppia;130;130;;;;eur
+trivago;2020-04-08;BELLAGIO;Vitali Apartment Jr Your Bellagio Home;;17/04/2020;19/04/2020;camera doppia;;;;;;eur
+trivago;2020-04-08;BELLAGIO;Margherita Apartment Bellagio;;17/04/2020;19/04/2020;camera doppia;;;;;;eur
+trivago;2020-04-08;BELLAGIO;Bellagio Apt Terrazzo, Balcone Solarium Parcheggio;;17/04/2020;19/04/2020;camera doppia;;;;;;eur
+trivago;2020-04-08;BELLAGIO;Appartamento A 5 Minuti Dal Centro;;17/04/2020;19/04/2020;camera doppia;;;;;;eur

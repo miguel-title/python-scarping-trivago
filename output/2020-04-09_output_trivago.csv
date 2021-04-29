@@ -1,0 +1,208 @@
+merchant;scraping_date;city_name;hotel_name;star;Starting_period;Ending_period;Camera;Price 1;Price 2;Price 3;Price 4;Price 5;currency
+trivago;2020-04-09;NAPOLI;Hotel Zara;2;13/07/2020;19/07/2020;camera doppia;39;39;39;39;39;eur
+trivago;2020-04-09;NAPOLI;Vittorio Veneto;2;13/07/2020;19/07/2020;camera doppia;40;40;44;44;;eur
+trivago;2020-04-09;NAPOLI;Casanova;2;13/07/2020;19/07/2020;camera doppia;46;46;50;50;46;eur
+trivago;2020-04-09;NAPOLI;Hotel Fiorentina;2;13/07/2020;19/07/2020;camera doppia;49;49;59;59;49;eur
+trivago;2020-04-09;NAPOLI;Hotel Primavera;2;13/07/2020;19/07/2020;camera doppia;49;49;54;;;eur
+trivago;2020-04-09;NAPOLI;Hotel Alloggio Del Conte;2;13/07/2020;19/07/2020;camera doppia;54;54;68;68;54;eur
+trivago;2020-04-09;NAPOLI;Hotel Pignatelli;2;13/07/2020;19/07/2020;camera doppia;58;58;;;;eur
+trivago;2020-04-09;NAPOLI;Kennedy;2;13/07/2020;19/07/2020;camera doppia;62;62;62;62;62;eur
+trivago;2020-04-09;NAPOLI;Le Orchidee;2;13/07/2020;19/07/2020;camera doppia;51;72;72;80;59;eur
+trivago;2020-04-09;NAPOLI;Duomo;2;13/07/2020;19/07/2020;camera doppia;78;78;78;90;90;eur
+trivago;2020-04-09;NAPOLI;Hôtel Bella Capri;2;13/07/2020;19/07/2020;camera doppia;68;79;68;79;79;eur
+trivago;2020-04-09;ROMA;Hotel Acropoli;2;13/07/2020;19/07/2020;camera doppia;29;31;33;33;29;eur
+trivago;2020-04-09;ROMA;Anacapri;2;13/07/2020;19/07/2020;camera doppia;39;39;39;54;52;eur
+trivago;2020-04-09;ROMA;Baltico;2;13/07/2020;19/07/2020;camera doppia;42;42;53;74;47;eur
+trivago;2020-04-09;ROMA;Radio Hotel;2;13/07/2020;19/07/2020;camera doppia;42;42;45;45;;eur
+trivago;2020-04-09;ROMA;La Luna Romana;2;13/07/2020;19/07/2020;camera doppia;43;44;43;48;48;eur
+trivago;2020-04-09;ROMA;Hotel Lazzari;2;13/07/2020;19/07/2020;camera doppia;44;44;44;48;48;eur
+trivago;2020-04-09;ROMA;Hotel Urbis;2;13/07/2020;19/07/2020;camera doppia;44;44;49;;;eur
+trivago;2020-04-09;ROMA;Hotel Santa Prassede;2;13/07/2020;19/07/2020;camera doppia;42;48;42;;;eur
+trivago;2020-04-09;ROMA;Hotel Alexis;2;13/07/2020;19/07/2020;camera doppia;48;48;55;55;48;eur
+trivago;2020-04-09;ROMA;Sallustio;2;13/07/2020;19/07/2020;camera doppia;48;48;;;;eur
+trivago;2020-04-09;ROMA;Hotel Vitti;2;13/07/2020;19/07/2020;camera doppia;48;48;57;57;48;eur
+trivago;2020-04-09;ROMA;Hotel Sallustio;2;13/07/2020;19/07/2020;camera doppia;48;48;53;60;55;eur
+trivago;2020-04-09;ROMA;Hotel City Guest House;2;13/07/2020;19/07/2020;camera doppia;40;49;66;85;49;eur
+trivago;2020-04-09;ROMA;Oriente;2;13/07/2020;19/07/2020;camera doppia;49;49;55;55;55;eur
+trivago;2020-04-09;ROMA;Hotel Nardizzi Americana;2;13/07/2020;19/07/2020;camera doppia;50;50;57;116;;eur
+trivago;2020-04-09;ROMA;Hotel Casale dei Massimi;2;13/07/2020;19/07/2020;camera doppia;50;50;57;71;;eur
+trivago;2020-04-09;ROMA;Hotel Adriatic;2;13/07/2020;19/07/2020;camera doppia;51;51;75;75;;eur
+trivago;2020-04-09;ROMA;Felice;2;13/07/2020;19/07/2020;camera doppia;51;51;56;56;56;eur
+trivago;2020-04-09;ROMA;Hotel Demetra Capitolina;2;13/07/2020;19/07/2020;camera doppia;32;52;32;52;52;eur
+trivago;2020-04-09;ROMA;Bolognese;2;13/07/2020;19/07/2020;camera doppia;53;53;60;60;57;eur
+trivago;2020-04-09;ROMA;Touring;2;13/07/2020;19/07/2020;camera doppia;54;54;59;59;;eur
+trivago;2020-04-09;ROMA;Portafortuna;2;13/07/2020;19/07/2020;camera doppia;55;55;55;55;55;eur
+trivago;2020-04-09;ROMA;Hotel Sileo;2;13/07/2020;19/07/2020;camera doppia;56;55;55;55;;eur
+trivago;2020-04-09;ROMA;Hotel Positano;2;13/07/2020;19/07/2020;camera doppia;55;55;75;75;75;eur
+trivago;2020-04-09;ROMA;Hotel Texas;2;13/07/2020;19/07/2020;camera doppia;56;56;56;;;eur
+trivago;2020-04-09;ROMA;San Pietro Rooms;2;13/07/2020;19/07/2020;camera doppia;56;56;76;76;56;eur
+trivago;2020-04-09;ROMA;Fenicia;2;13/07/2020;19/07/2020;camera doppia;56;56;;;;eur
+trivago;2020-04-09;ROMA;Hotel Industrial;2;13/07/2020;19/07/2020;camera doppia;56;56;63;63;56;eur
+trivago;2020-04-09;ROMA;Hotel Alius;2;13/07/2020;19/07/2020;camera doppia;56;56;98;98;;eur
+trivago;2020-04-09;ROMA;Hotel Taormina;2;13/07/2020;19/07/2020;camera doppia;57;57;57;57;57;eur
+trivago;2020-04-09;ROMA;Hotel Altavilla 9;2;13/07/2020;19/07/2020;camera doppia;57;57;63;63;57;eur
+trivago;2020-04-09;ROMA;Meridiana;2;13/07/2020;19/07/2020;camera doppia;57;57;63;63;;eur
+trivago;2020-04-09;ROMA;Stadler II;2;13/07/2020;19/07/2020;camera doppia;57;57;61;61;;eur
+trivago;2020-04-09;ROMA;Hotel Giorgina;2;13/07/2020;19/07/2020;camera doppia;59;59;59;59;59;eur
+trivago;2020-04-09;ROMA;Hotel Dei Mille;2;13/07/2020;19/07/2020;camera doppia;51;59;51;51;51;eur
+trivago;2020-04-09;ROMA;Virginia;2;13/07/2020;19/07/2020;camera doppia;59;59;59;;;eur
+trivago;2020-04-09;ROMA;Hotel Meraviglia;;13/07/2020;19/07/2020;camera doppia;59;59;69;;;eur
+trivago;2020-04-09;ROMA;Hotel Planet;2;13/07/2020;19/07/2020;camera doppia;59;61;59;76;73;eur
+trivago;2020-04-09;ROMA;Lella;2;13/07/2020;19/07/2020;camera doppia;61;61;96;96;;eur
+trivago;2020-04-09;ROMA;Hotel Altavilla;2;13/07/2020;19/07/2020;camera doppia;62;62;62;62;62;eur
+trivago;2020-04-09;ROMA;Hotel Star Light;2;13/07/2020;19/07/2020;camera doppia;67;62;62;62;;eur
+trivago;2020-04-09;ROMA;Beautiful;2;13/07/2020;19/07/2020;camera doppia;62;62;;;;eur
+trivago;2020-04-09;ROMA;Boomerang;2;13/07/2020;19/07/2020;camera doppia;63;63;69;69;69;eur
+trivago;2020-04-09;ROMA;Hotel Luciani;2;13/07/2020;19/07/2020;camera doppia;63;63;77;77;70;eur
+trivago;2020-04-09;ROMA;Hotel Fiori;2;13/07/2020;19/07/2020;camera doppia;64;64;64;72;72;eur
+trivago;2020-04-09;ROMA;Hotel Giotto Flavia;2;13/07/2020;19/07/2020;camera doppia;55;64;64;64;55;eur
+trivago;2020-04-09;ROMA;Bergamo;2;13/07/2020;19/07/2020;camera doppia;64;64;68;68;;eur
+trivago;2020-04-09;ROMA;Hotel Picasso;2;13/07/2020;19/07/2020;camera doppia;65;65;105;105;85;eur
+trivago;2020-04-09;ROMA;Amico;2;13/07/2020;19/07/2020;camera doppia;45;65;59;59;;eur
+trivago;2020-04-09;ROMA;Principe Amedeo;2;13/07/2020;19/07/2020;camera doppia;66;66;76;76;;eur
+trivago;2020-04-09;ROMA;Marta Guest House;2;13/07/2020;19/07/2020;camera doppia;66;66;69;72;71;eur
+trivago;2020-04-09;ROMA;Hotel Ercoli;2;13/07/2020;19/07/2020;camera doppia;66;66;92;92;72;eur
+trivago;2020-04-09;ROMA;Reboa Resort;2;13/07/2020;19/07/2020;camera doppia;66;66;82;66;;eur
+trivago;2020-04-09;ROMA;Bruna;2;13/07/2020;19/07/2020;camera doppia;66;66;66;66;66;eur
+trivago;2020-04-09;ROMA;Ducale;2;13/07/2020;19/07/2020;camera doppia;66;66;66;66;66;eur
+trivago;2020-04-09;ROMA;Charter;2;13/07/2020;19/07/2020;camera doppia;66;66;76;76;;eur
+trivago;2020-04-09;ROMA;Moscatello;2;13/07/2020;19/07/2020;camera doppia;66;66;96;96;;eur
+trivago;2020-04-09;ROMA;Hotel Tempio di Apollo;2;13/07/2020;19/07/2020;camera doppia;66;66;76;76;76;eur
+trivago;2020-04-09;ROMA;Hotel Ferrarese;2;13/07/2020;19/07/2020;camera doppia;67;67;73;77;73;eur
+trivago;2020-04-09;ROMA;Magic;2;13/07/2020;19/07/2020;camera doppia;68;68;73;;;eur
+trivago;2020-04-09;ROMA;Corallo;2;13/07/2020;19/07/2020;camera doppia;60;69;60;60;60;eur
+trivago;2020-04-09;ROMA;Versailles;2;13/07/2020;19/07/2020;camera doppia;69;70;70;75;;eur
+trivago;2020-04-09;ROMA;Hotel Castelfidardo;2;13/07/2020;19/07/2020;camera doppia;71;71;81;162;;eur
+trivago;2020-04-09;ROMA;Robinson;2;13/07/2020;19/07/2020;camera doppia;71;71;71;;;eur
+trivago;2020-04-09;ROMA;Il Sanpietrino;2;13/07/2020;19/07/2020;camera doppia;72;72;82;82;;eur
+trivago;2020-04-09;ROMA;Hotel Washington;2;13/07/2020;19/07/2020;camera doppia;72;72;83;83;;eur
+trivago;2020-04-09;ROMA;Casa Per Ferie Margherita Diomira;2;13/07/2020;19/07/2020;camera doppia;72;72;72;;;eur
+trivago;2020-04-09;ROMA;Hotel Orlanda;2;13/07/2020;19/07/2020;camera doppia;73;73;73;79;79;eur
+trivago;2020-04-09;ROMA;Hotel Carmel;2;13/07/2020;19/07/2020;camera doppia;73;73;80;80;;eur
+trivago;2020-04-09;ROMA;Hotel Filippo Roma;2;13/07/2020;19/07/2020;camera doppia;73;73;81;81;76;eur
+trivago;2020-04-09;ROMA;Pisa;2;13/07/2020;19/07/2020;camera doppia;73;73;81;81;81;eur
+trivago;2020-04-09;ROMA;Hotel Louisiana;2;13/07/2020;19/07/2020;camera doppia;54;74;55;61;61;eur
+trivago;2020-04-09;ROMA;Hotel La Locanda del Borgo;2;13/07/2020;19/07/2020;camera doppia;74;74;74;74;74;eur
+trivago;2020-04-09;ROMA;Hotel Mirage;2;13/07/2020;19/07/2020;camera doppia;74;74;78;78;74;eur
+trivago;2020-04-09;ROMA;Hotel Divine Rome;2;13/07/2020;19/07/2020;camera doppia;74;74;90;;;eur
+trivago;2020-04-09;ROMA;Clarin Hotel;2;13/07/2020;19/07/2020;camera doppia;75;75;75;82;82;eur
+trivago;2020-04-09;ROMA;Hotel Massimo;2;13/07/2020;19/07/2020;camera doppia;75;75;75;75;75;eur
+trivago;2020-04-09;ROMA;Marechiaro;2;13/07/2020;19/07/2020;camera doppia;75;75;77;;;eur
+trivago;2020-04-09;ROMA;Silla;2;13/07/2020;19/07/2020;camera doppia;75;75;95;95;;eur
+trivago;2020-04-09;ROMA;Hotel Lodi;2;13/07/2020;19/07/2020;camera doppia;75;75;82;82;75;eur
+trivago;2020-04-09;ROMA;Paradise;;13/07/2020;19/07/2020;camera doppia;75;75;78;78;75;eur
+trivago;2020-04-09;ROMA;Hotel Suite Caesar;2;13/07/2020;19/07/2020;camera doppia;75;75;86;86;81;eur
+trivago;2020-04-09;ROMA;Soggiorno Comfort;;13/07/2020;19/07/2020;camera doppia;76;76;147;;;eur
+trivago;2020-04-09;ROMA;Candia Vatican Suites;;13/07/2020;19/07/2020;camera doppia;77;77;106;103;;eur
+trivago;2020-04-09;ROMA;Hotel Florida;2;13/07/2020;19/07/2020;camera doppia;77;77;87;87;;eur
+trivago;2020-04-09;ROMA;Hotel Giuliana;2;13/07/2020;19/07/2020;camera doppia;77;77;91;91;81;eur
+trivago;2020-04-09;ROMA;Capitol;2;13/07/2020;19/07/2020;camera doppia;78;80;96;96;78;eur
+trivago;2020-04-09;ROMA;Hotel Labelle;2;13/07/2020;19/07/2020;camera doppia;80;80;86;86;;eur
+trivago;2020-04-09;ROMA;Hotel Marcantonio;2;13/07/2020;19/07/2020;camera doppia;76;81;98;98;76;eur
+trivago;2020-04-09;ROMA;Hotel Teti;2;13/07/2020;19/07/2020;camera doppia;81;81;89;89;89;eur
+trivago;2020-04-09;ROMA;Hotel Hollywood;2;13/07/2020;19/07/2020;camera doppia;81;81;85;85;81;eur
+trivago;2020-04-09;ROMA;Hotel Mari 2;2;13/07/2020;19/07/2020;camera doppia;82;82;86;86;;eur
+trivago;2020-04-09;ROMA;Affittacamere Campus Trigoria;;13/07/2020;19/07/2020;camera doppia;82;82;82;;;eur
+trivago;2020-04-09;ROMA;Casale Appio;;13/07/2020;19/07/2020;camera doppia;82;82;82;;;eur
+trivago;2020-04-09;ROMA;Dell'Urbe;2;13/07/2020;19/07/2020;camera doppia;83;83;102;93;102;eur
+trivago;2020-04-09;ROMA;Concorde Hotel;2;13/07/2020;19/07/2020;camera doppia;83;83;83;83;83;eur
+trivago;2020-04-09;ROMA;Andreina;2;13/07/2020;19/07/2020;camera doppia;84;84;87;95;84;eur
+trivago;2020-04-09;ROMA;Hotel Prati;2;13/07/2020;19/07/2020;camera doppia;86;86;86;86;86;eur
+trivago;2020-04-09;ROMA;Hotel Aristotele;2;13/07/2020;19/07/2020;camera doppia;59;87;62;62;59;eur
+trivago;2020-04-09;ROMA;Hotel Giubileo;2;13/07/2020;19/07/2020;camera doppia;87;87;87;;;eur
+trivago;2020-04-09;ROMA;Colors Hotel;2;13/07/2020;19/07/2020;camera doppia;76;88;76;88;88;eur
+trivago;2020-04-09;ROMA;Castle;2;13/07/2020;19/07/2020;camera doppia;88;88;91;91;88;eur
+trivago;2020-04-09;ROMA;Guestlovers Biscione 95;;13/07/2020;19/07/2020;camera doppia;90;90;99;;;eur
+trivago;2020-04-09;ROMA;Hotel Azzurra;2;13/07/2020;19/07/2020;camera doppia;91;91;96;;;eur
+trivago;2020-04-09;ROMA;Hotel Everest Inn Rome;;13/07/2020;19/07/2020;camera doppia;83;92;91;92;83;eur
+trivago;2020-04-09;ROMA;Lussemburgo;2;13/07/2020;19/07/2020;camera doppia;94;94;156;156;94;eur
+trivago;2020-04-09;ROMA;Domus Tiberina;2;13/07/2020;19/07/2020;camera doppia;95;95;95;95;;eur
+trivago;2020-04-09;ROMA;Pomezia;2;13/07/2020;19/07/2020;camera doppia;95;95;105;105;95;eur
+trivago;2020-04-09;ROMA;Hotel Paisiello Parioli;2;13/07/2020;19/07/2020;camera doppia;96;96;96;96;;eur
+trivago;2020-04-09;ROMA;Hotel Santa Prisca;2;13/07/2020;19/07/2020;camera doppia;79;96;79;79;79;eur
+trivago;2020-04-09;ROMA;Arco di Travertino;2;13/07/2020;19/07/2020;camera doppia;96;96;126;126;96;eur
+trivago;2020-04-09;ROMA;Panda;2;13/07/2020;19/07/2020;camera doppia;96;96;101;101;101;eur
+trivago;2020-04-09;ROMA;San Paolo Guest House;;13/07/2020;19/07/2020;camera doppia;97;97;97;107;107;eur
+trivago;2020-04-09;ROMA;Sweet Home;2;13/07/2020;19/07/2020;camera doppia;101;101;111;;;eur
+trivago;2020-04-09;ROMA;Cherubini;2;13/07/2020;19/07/2020;camera doppia;102;102;126;126;102;eur
+trivago;2020-04-09;ROMA;Hotel Oceania;2;13/07/2020;19/07/2020;camera doppia;102;102;115;130;116;eur
+trivago;2020-04-09;ROMA;Seiler;2;13/07/2020;19/07/2020;camera doppia;84;103;101;101;85;eur
+trivago;2020-04-09;ROMA;Italia;2;13/07/2020;19/07/2020;camera doppia;103;103;121;121;110;eur
+trivago;2020-04-09;ROMA;Roi;2;13/07/2020;19/07/2020;camera doppia;89;105;89;89;89;eur
+trivago;2020-04-09;ROMA;Auditorium di Mecenate;2;13/07/2020;19/07/2020;camera doppia;105;105;116;116;;eur
+trivago;2020-04-09;ROMA;Hotel Termini;2;13/07/2020;19/07/2020;camera doppia;102;106;106;106;102;eur
+trivago;2020-04-09;ROMA;Residence Prati;2;13/07/2020;19/07/2020;camera doppia;106;106;138;138;138;eur
+trivago;2020-04-09;ROMA;Hotel Farini;2;13/07/2020;19/07/2020;camera doppia;43;108;62;62;44;eur
+trivago;2020-04-09;ROMA;Hotel Primavera;2;13/07/2020;19/07/2020;camera doppia;109;109;114;114;114;eur
+trivago;2020-04-09;ROMA;Hotel Croce di Malta;2;13/07/2020;19/07/2020;camera doppia;110;110;;;;eur
+trivago;2020-04-09;VENEZIA;Al Portico Guest House;2;13/07/2020;19/07/2020;camera doppia;56;67;80;91;69;eur
+trivago;2020-04-09;VENEZIA;AO Ostello Venezia Mestre;2;13/07/2020;19/07/2020;camera doppia;59;72;66;85;85;eur
+trivago;2020-04-09;VENEZIA;Leonardo Hotel;2;13/07/2020;19/07/2020;camera doppia;77;77;77;77;;eur
+trivago;2020-04-09;VENEZIA;Hotel Antica Villa Graziella;2;13/07/2020;19/07/2020;camera doppia;78;78;78;90;84;eur
+trivago;2020-04-09;VENEZIA;Hotel Guerrini;2;13/07/2020;19/07/2020;camera doppia;80;80;80;90;90;eur
+trivago;2020-04-09;VENEZIA;Hotel Mezzo Pozzo;2;13/07/2020;19/07/2020;camera doppia;81;81;89;89;81;eur
+trivago;2020-04-09;VENEZIA;Hotel Sorriso;2;13/07/2020;19/07/2020;camera doppia;82;84;92;92;82;eur
+trivago;2020-04-09;VENEZIA;Hotel Ariel Silva;2;13/07/2020;19/07/2020;camera doppia;85;89;97;97;97;eur
+trivago;2020-04-09;VENEZIA;Hotel Antica Locanda Montin;2;13/07/2020;19/07/2020;camera doppia;90;90;;;;eur
+trivago;2020-04-09;VENEZIA;Hotel Henry;2;13/07/2020;19/07/2020;camera doppia;94;94;94;94;;eur
+trivago;2020-04-09;VENEZIA;Tivoli;2;13/07/2020;19/07/2020;camera doppia;95;95;95;95;95;eur
+trivago;2020-04-09;VENEZIA;Hotel Airone Venice;2;13/07/2020;19/07/2020;camera doppia;71;95;84;84;71;eur
+trivago;2020-04-09;VENEZIA;Hotel Canada Venezia;2;13/07/2020;19/07/2020;camera doppia;95;95;173;173;95;eur
+trivago;2020-04-09;VENEZIA;San Geremia;2;13/07/2020;19/07/2020;camera doppia;95;95;95;115;;eur
+trivago;2020-04-09;VENEZIA;Hotel Caprera;2;13/07/2020;19/07/2020;camera doppia;96;96;104;119;110;eur
+trivago;2020-04-09;VENEZIA;Alla Fava;2;13/07/2020;19/07/2020;camera doppia;97;97;97;;;eur
+trivago;2020-04-09;VENEZIA;Hotel Florida;2;13/07/2020;19/07/2020;camera doppia;98;98;;;;eur
+trivago;2020-04-09;VENEZIA;Atlantide;2;13/07/2020;19/07/2020;camera doppia;96;103;96;96;96;eur
+trivago;2020-04-09;VENEZIA;Hotel Villa Rosa;2;13/07/2020;19/07/2020;camera doppia;97;112;106;106;106;eur
+trivago;2020-04-09;VENEZIA;Adriatico;2;13/07/2020;19/07/2020;camera doppia;115;115;130;145;133;eur
+trivago;2020-04-09;VENEZIA;A Tribute To Music;2;13/07/2020;19/07/2020;camera doppia;115;115;127;;;eur
+trivago;2020-04-09;VENEZIA;Domus Cavanis;2;13/07/2020;19/07/2020;camera doppia;109;118;118;118;109;eur
+trivago;2020-04-09;VENEZIA;Al Malcanton;2;13/07/2020;19/07/2020;camera doppia;118;118;139;139;118;eur
+trivago;2020-04-09;VENEZIA;Hotel Serenissima;2;13/07/2020;19/07/2020;camera doppia;105;121;124;124;105;eur
+trivago;2020-04-09;VENEZIA;Hotel Città di Milano;2;13/07/2020;19/07/2020;camera doppia;105;124;105;105;105;eur
+trivago;2020-04-09;VENEZIA;Il Moro di Venezia;2;13/07/2020;19/07/2020;camera doppia;114;126;114;114;114;eur
+trivago;2020-04-09;VENEZIA;Hotel Orion;2;13/07/2020;19/07/2020;camera doppia;123;129;127;127;123;eur
+trivago;2020-04-09;VENEZIA;Il Veliero Romantico;2;13/07/2020;19/07/2020;camera doppia;129;129;145;145;;eur
+trivago;2020-04-09;VENEZIA;Hotel Adua;2;13/07/2020;19/07/2020;camera doppia;137;137;137;137;;eur
+trivago;2020-04-09;VENEZIA;Hotel Falier;2;13/07/2020;19/07/2020;camera doppia;137;137;145;149;141;eur
+trivago;2020-04-09;VENEZIA;Hotel Bartolomeo;2;13/07/2020;19/07/2020;camera doppia;128;149;128;128;128;eur
+trivago;2020-04-09;VENEZIA;Hotel La Residenza;2;13/07/2020;19/07/2020;camera doppia;155;155;155;165;160;eur
+trivago;2020-04-09;VENEZIA;Venice Maggior Consiglio;2;13/07/2020;19/07/2020;camera doppia;155;155;171;171;155;eur
+trivago;2020-04-09;VENEZIA;Rio;2;13/07/2020;19/07/2020;camera doppia;181;181;212;212;181;eur
+trivago;2020-04-09;VENEZIA;Hotel San Salvador;2;13/07/2020;19/07/2020;camera doppia;264;264;264;;;eur
+trivago;2020-04-09;BELLAGIO;Miralago B&B and Apartments;2;13/07/2020;19/07/2020;camera doppia;84;103;93;93;84;eur
+trivago;2020-04-09;BELLAGIO;Hotel Il Perlo Panorama;2;13/07/2020;19/07/2020;camera doppia;129;129;129;129;129;eur
+trivago;2020-04-09;BELLAGIO;Hotel Bellagio;2;13/07/2020;19/07/2020;camera doppia;133;133;133;158;158;eur
+trivago;2020-04-09;BELLAGIO;Hotel La Pergola;2;13/07/2020;19/07/2020;camera doppia;163;163;163;163;163;eur
+trivago;2020-04-09;BELLAGIO;Casetta;;13/07/2020;19/07/2020;camera doppia;55;55;55;55;55;eur
+trivago;2020-04-09;BELLAGIO;La Volpe;;13/07/2020;19/07/2020;camera doppia;;;;;;eur
+trivago;2020-04-09;BELLAGIO;Ams Apartments 102 - Civenna Bellagio;;13/07/2020;19/07/2020;camera doppia;62;62;;;;eur
+trivago;2020-04-09;BELLAGIO;Monolocale Al Pino ( Cir 013250-cni-00133 );;13/07/2020;19/07/2020;camera doppia;;;;;;eur
+trivago;2020-04-09;BELLAGIO;Monolocale Bellagio Alta;;13/07/2020;19/07/2020;camera doppia;;;;;;eur
+trivago;2020-04-09;BELLAGIO;Appartamenti Renzo E Lucia;;13/07/2020;19/07/2020;camera doppia;75;75;75;75;75;eur
+trivago;2020-04-09;BELLAGIO;Carina;;13/07/2020;19/07/2020;camera doppia;79;79;79;;;eur
+trivago;2020-04-09;BELLAGIO;Appartamento Il Giardino;;13/07/2020;19/07/2020;camera doppia;80;80;80;;;eur
+trivago;2020-04-09;BELLAGIO;Appartamenti I Giardini Di Villa Melzi;;13/07/2020;19/07/2020;camera doppia;80;80;89;89;;eur
+trivago;2020-04-09;BELLAGIO;Bellagio Treehouse Attic;;13/07/2020;19/07/2020;camera doppia;;;;;;eur
+trivago;2020-04-09;BELLAGIO;Bellagio, Casa Lilla;;13/07/2020;19/07/2020;camera doppia;;;;;;eur
+trivago;2020-04-09;BELLAGIO;Casa Gioia, Monolocale Con Giardino, 3 Posti Letto;;13/07/2020;19/07/2020;camera doppia;;;;;;eur
+trivago;2020-04-09;BELLAGIO;Easy Welcome Casa Saronni;;13/07/2020;19/07/2020;camera doppia;;;;;;eur
+trivago;2020-04-09;BELLAGIO;Casa Lieta;;13/07/2020;19/07/2020;camera doppia;89;89;89;;;eur
+trivago;2020-04-09;BELLAGIO;Titachouse;;13/07/2020;19/07/2020;camera doppia;;;;;;eur
+trivago;2020-04-09;BELLAGIO;Al Relais Campi;;13/07/2020;19/07/2020;camera doppia;92;92;92;92;;eur
+trivago;2020-04-09;BELLAGIO;Art In Flower;;13/07/2020;19/07/2020;camera doppia;92;92;92;;;eur
+trivago;2020-04-09;BELLAGIO;Casa La Rosa;;13/07/2020;19/07/2020;camera doppia;93;93;93;93;;eur
+trivago;2020-04-09;BELLAGIO;Villa Primula;;13/07/2020;19/07/2020;camera doppia;94;94;;;;eur
+trivago;2020-04-09;BELLAGIO;Appartamento 2-4 posti letto in Bellagio, Lago di Como;;13/07/2020;19/07/2020;camera doppia;94;94;;;;eur
+trivago;2020-04-09;BELLAGIO;Ai Perseghitt;;13/07/2020;19/07/2020;camera doppia;;;;;;eur
+trivago;2020-04-09;BOLSENA;Casale Ostello;;13/07/2020;19/07/2020;camera doppia;48;48;53;53;48;eur
+trivago;2020-04-09;BOLSENA;La Scaletta;;13/07/2020;19/07/2020;camera doppia;50;50;50;50;;eur
+trivago;2020-04-09;BOLSENA;Loft Con Vista A Bolsena;;13/07/2020;19/07/2020;camera doppia;;;;;;eur
+trivago;2020-04-09;BOLSENA;Casa Margherita Quartiere Medievale Pet-friendly;;13/07/2020;19/07/2020;camera doppia;;;;;;eur
+trivago;2020-04-09;BOLSENA;Meridiano 12;;13/07/2020;19/07/2020;camera doppia;62;62;62;;;eur
+trivago;2020-04-09;BOLSENA;Pensione Italia;1;13/07/2020;19/07/2020;camera doppia;64;64;;;;eur
+trivago;2020-04-09;BOLSENA;Casa Rita;;13/07/2020;19/07/2020;camera doppia;;;;;;eur
+trivago;2020-04-09;BOLSENA;La Rocca Casa Vacanza;;13/07/2020;19/07/2020;camera doppia;70;70;70;;;eur
+trivago;2020-04-09;BOLSENA;Apartment Santa Maria;;13/07/2020;19/07/2020;camera doppia;70;70;70;;;eur
+trivago;2020-04-09;BOLSENA;B&B Podere Ospedaletto;;13/07/2020;19/07/2020;camera doppia;72;72;72;72;72;eur
+trivago;2020-04-09;BOLSENA;I Carrilli;;13/07/2020;19/07/2020;camera doppia;72;72;72;72;;eur
